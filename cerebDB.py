@@ -22,7 +22,7 @@ class CerebDB_Generator :
         self.papers_clean = cleansing_papers(self.papers, ['scp'])
         self.links_clean = cleansing_links(self.papers_clean, self.links)
         self.papers_clean,self.keylist = additional_cleansing_for_keywords(self.papers_clean, 'keywords_author')
-        papers_clean,keylist = additional_cleansing_for_keywords(papers_clean, 'keywords_other')
+        # papers_clean,keylist = additional_cleansing_for_keywords(papers_clean, 'keywords_other')
 
         self.tagDict, self.rawToTag = genTagSet(self.keylist)
         # Takes a while
