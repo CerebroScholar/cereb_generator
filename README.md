@@ -3,6 +3,6 @@ required packages : numpy, pandas, nltk
 
 use :
 """
->> import cerebDB
->> generator = cerebDB.CerebDB_Generator()
+import cerebDB
+generator = cerebDB.CerebDB_Generator()
 """
