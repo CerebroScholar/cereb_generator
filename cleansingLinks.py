@@ -20,7 +20,7 @@ def cleansing_links(dataset, links) :
     d = dataset.set_index('p_id')
     a = links[name['a']].apply(lambda x: d.loc[x].pub_year)
     b = links[name['b']].apply(lambda x: d.loc[x].pub_year)
-    print(yellow('There are {:,} wrong assigned links.(reverse-ordered)'.format(str(sum(a>b)))))
+    print(yellow('There are {:,} wrong assigned links.(reverse-ordered)'.format(sum(a>b))))
     
     # Now Swapping wrong ordered links.
     print(yellow('Now Swapping wrong ordered links.'))
@@ -31,12 +31,12 @@ def cleansing_links(dataset, links) :
     # Checking
     a = cereb_links.p_id_is_cited.apply(lambda x: d.loc[x].pub_year)
     b = cereb_links.by_p_id.apply(lambda x: d.loc[x].pub_year)
-    print(yellow('Now, There are {:,} wrong links.'.format(str(sum(a>b)))))
+    print(yellow('Now, There are {:,} wrong links.'.format(sum(a>b))))
     
     # Drop duplicated links
     before = len(cereb_links)
     cereb_links.drop_duplicates(['p_id_is_cited', 'by_p_id'], inplace=True)
-    print(yellow('Drop duplicated links. {:,} -> {:,} links'.format(str(before), str(len(cereb_links)))))  
+    print(yellow('Drop duplicated links. {:,} -> {:,} links'.format(before, len(cereb_links))))
 
     print(blue('Done.'))
     return cereb_links

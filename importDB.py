@@ -27,7 +27,7 @@ def importDB_AWS() :
 
     return papers, links
 
-def importDB_stored(filename = 'db3_153466_349561.db'):
+def importDB_stored(filename = 'backupdb.db'):
     print(blue("Importing DB from '{}'".format(filename)))
     import sqlite3
     import os.path
@@ -39,13 +39,13 @@ def importDB_stored(filename = 'db3_153466_349561.db'):
     # conn = sqlite3.connect('db2_13585_32480.db')
     conn = sqlite3.connect(filename)
 
-    papers = pd.read_sql('select * from papers', conn)
+    papers = pd.read_sql('select * from paper', conn)
     links = pd.read_sql('select * from links', conn)
 
     print(blue("Success. Now we have '{:,} papers' and '{:,} links'.".format(len(papers), len(links))))
     print('- papers :', papers.columns.tolist())
     print('- links :', links.columns.tolist())
-    
+
     return papers, links
 
 
