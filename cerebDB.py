@@ -15,7 +15,7 @@ from matchTags import *
 class CerebDB_Generator :
     def __init__(self, crawlDBpath = 'backupdb.db') :
         if crawlDBpath == 'AWS' :
-            self.papers, self.links = mportDB_AWS()
+            self.papers, self.links = importDB_AWS()
         else : 
             self.papers, self.links = importDB_stored(crawlDBpath)
 
