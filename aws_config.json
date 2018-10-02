@@ -1,0 +1,13 @@
+{
+	"ACCESS_KEY_ID" : "AKIAJLCP6QCYGZBHNYDQ",
+	"ACCESS_SECRET_KEY" : "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",
+	"BUCKET_NAME" : "scopus-paper-list",
+	"HOST_NAME" : "cerebroscholar.cnrbnrhug1va.ap-northeast-2.rds.amazonaws.com",
+	"DB_NAME" : "Cerebro_Paper",
+	"DB_USER" : "cerebro",
+	"DB_PASSWORD" : "$%^456rty",
+	"PAPER_TABLE_NAME" : "Cerebro-Scholar",
+	"LINK_TABLE_NAME" : "Cerebro-Scholar-link",
+	"DUPLICATION_TABLE_NAME" : "Duplication_check",
+	"REGION" : "ap-northeast-2"
+}
