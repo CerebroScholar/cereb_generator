@@ -1,0 +1,1858 @@
+short,stem,long,stem_count,long_count
+"1,1",{'garch'},{'garch'},1,1
+10-opt,{'zero norm optim'},{'zero norm optimization'},1,1
+2-d,{'two dimension'},{'two-dimensional'},1,1
+2d,{'gb'},{'gb'},1,1
+2sgp,{'two stage genet program'},{'two-stage genetic programming'},1,1
+3-d,{'three dimension'},{'three-dimensional'},1,1
+3-d ic,{'3 d integr circuit'},{'3-d integrated circuit'},1,1
+3d,{'three dimension'},{'three-dimensional'},1,1
+3d ptv,{'three dimension particl track velocimetri'},{'three-dimensional particle tracking velocimetry'},1,1
+3g,{'third generat'},{'third-generation'},1,1
+a,"{'poli', 'polyadenyl poli'}","{'poly', 'polyadenylation poly'}",2,2
+a-si,{'amorph silicon'},{'amorphous silicon'},1,1
+aa,{'amino acid'},{'amino acid'},1,1
+aaa,{'abdomin aortic aneurysm'},{'abdominal aortic aneurysm'},1,1
+aal,"{'ambient assist live', 'activ and assist live'}","{'ambient assisted living', 'active and assisted living'}",2,2
+aami,{'associ for advanc of medic instrument'},{'association for advancement of medical instrumentation'},1,1
+aann,{'autoassoci neural network'},{'autoassociative neural network'},1,1
+abc,"{'artifici bee coloni algorithm', 'artifici bee coloni'}","{'artificial bee colony algorithm', 'artificial bee colony'}",2,2
+abnid,{'anomali base network intrus detect'},{'anomaly-based network intrusion detection'},1,1
+ac,{'air condit'},{'air conditioning'},1,1
+acds,{'adapt critic design'},{'adaptive critic designs'},1,1
+acl,{'anterior cruciat ligament'},{'anterior cruciate ligament'},1,1
+aco,{'ant coloni optim'},{'ant colony optimization'},1,1
+acps,{'automot cyber physic system'},{'automotive cyber-physical systems'},1,1
+active learning,{'subject specif adapt'},{'subject-specific adaptation'},1,1
+ad,"{""alzheim 's diseas"", 'anomali detect', 'alzheim ’ s diseas'}","{'alzheimer’s disease', 'anomaly detection', ""alzheimer's disease""}",3,3
+adaline,{'adapt linear neural network'},{'adaptive linear neural network'},1,1
+adas,{'advanc driver assist system'},{'advanced driver assistance system'},1,1
+adass,{'advanc driver assist system'},{'advanced driver assistance systems'},1,1
+addl,{'structur analysi discrimin dictionari learn'},{'structured analysis discriminative dictionary learning'},1,1
+adhd,{'attent deficit/hyperact disord'},{'attention-deficit/hyperactivity disorder'},1,1
+adi,{'austemp ductil iron'},{'austempered ductile iron'},1,1
+adi-r,{'autism diagnost interview revis'},{'autism diagnostic interview-revised'},1,1
+adl,{'activ of daili live'},"{'activities of daily living', 'activity of daily living'}",2,2
+admm,{'altern direct method of multipli'},{'alternating direction method of multiplier'},1,1
+adp,"{'approxim dynam program', 'adapt dynam program', 'program'}","{'programming', 'approximate dynamic programming', 'adaptive dynamic programming'}",3,3
+adrc,{'activ disturb reject control'},{'active disturbance rejection control'},1,1
+ae,"{'acoust emiss', 'autoencod'}","{'acoustic emission', 'autoencoder'}",2,2
+aed,{'autom extern defibril'},{'automated external defibrillator'},1,1
+aer,{'address event represent'},{'address-event representation'},1,1
+aes,{'artifici endocrin system'},{'artificial endocrine system'},1,1
+af,{'atrial fibril'},{'atrial fibrillation'},1,1
+afib,{'atrial fibril'},{'atrial fibrillation'},1,1
+afm,{'atom forc microscopi'},{'atomic force microscopy'},1,1
+agc,{'automat generat control'},{'automatic generation control'},1,1
+agi,{'artifici general intellig'},{'artificial general intelligence'},1,1
+agsp,{'adapt group sparsiti'},{'adaptive group sparsity'},1,1
+agur,{'aggreg global univers rank'},{'aggregated global university ranking'},1,1
+agv,{'automat guid vehicl'},{'automatic guided vehicle'},1,1
+agvc,{'activ gate voltag control'},{'active gate voltage control'},1,1
+ah,{'adapt hypermedia'},{'adaptive hypermedia'},1,1
+ahp,"{'analyt hierarchi process', 'rough group analyt hierarchi process'}","{'analytic hierarchy process', 'rough group analytic hierarchy process', 'analytical hierarchy process'}",3,3
+ai,"{'hybrid artifici intellig', 'artifici intellig'}","{'hybrid artificial intelligence', 'artificial intelligence'}",2,2
+aid,{'automat incid detect'},{'automatic incident detection'},1,1
+aip,{'age in place'},{'aging in place'},1,1
+airs,{'artifici immun recognit system'},"{'artificial immune recognition systems', 'artificial immune recognition system'}",2,2
+ais,"{'artifici immun system', 'automat identif system', 'adenocarcinoma in situ', 'agricultur innov system'}","{'artificial immune systems', 'adenocarcinoma in situ', 'automatic identification system', 'agricultural innovation systems'}",4,4
+aits,{'advanc travel transport system'},{'advanced traveller transportation systems'},1,1
+akis,{'agricultur knowledg and inform system'},{'agricultural knowledge and information systems'},1,1
+al,{'activ learn'},{'active learning'},1,1
+all,{'acut lymphoblast leukaemia'},{'acute lymphoblastic leukaemia'},1,1
+alm,{'algebra logic model'},{'algebraic-logical model'},1,1
+als,{'amyotroph later sclerosi'},{'amyotrophic lateral sclerosis'},1,1
+alt,{'acceler life test'},{'accelerated life testing'},1,1
+alv,{'autonom land vehicl'},{'autonomous land vehicle'},1,1
+am,"{'amplitud modul', 'addit manufactur', 'attent model'}","{'attention model', 'additive manufacturing', 'amplitude modulation'}",3,3
+amc,"{'automat modul classif', 'adapt modul and code'}","{'automatic modulation classification', 'adaptive modulation and coding'}",2,2
+amd,"{'automat mispronunci detect', 'age relat macular degener ,'}","{'age-related macular degeneration,', 'automatic mispronunciation detection'}",2,2
+ami,"{'ambient intellig', 'advanc meter infrastructur'}","{'ambient intelligence', 'advanced metering infrastructure'}",2,2
+aml,"{'acut myeloid leukaemia', 'autonom machin learn'}","{'autonomous machine learning', 'acute myeloid leukaemia'}",2,2
+ams,{'analysi modif synthesi'},{'analysis-modification-synthesis'},1,1
+amsr-e,{'advanc microwav scan radiomet   earth observ system'},{'advanced microwave scanning radiometer - earth observing system'},1,1
+amt,{'adapt multispac transform'},{'adaptive multispace transformation'},1,1
+amtc,{'advanc mask technolog center'},{'advanced mask technology center'},1,1
+amuse,{'algorithm for multipl unknown sourc extract'},{'algorithm for multiple unknown source extraction'},1,1
+amv,{'actual mean vote'},{'actual mean vote'},1,1
+anfis,"{'adapt network base fuzzi infer system', 'adapt neural fuzzi infer system', 'adapt neuro fuzzi infer system'}","{'adaptive neuro fuzzy inference system', 'adaptive neural fuzzy inference system', 'adaptive-network-based fuzzy inference system', 'adaptive neuro-fuzzy inference system', 'adaptive-network-based fuzzy inference systems', 'adaptive network-based fuzzy inference system'}",6,6
+ann,"{'artifici neural networ', 'artifici neural network'}","{'artificial neural networks', 'artificial neural network', 'artificial neural networ'}",3,3
+anna,{'artifici neural network algorithm'},{'artificial neural network algorithm'},1,1
+anns,"{'artifici neural net', 'artifici neural network', 'artifici neutral network'}","{'artificial-neural nets', 'artificial neural networks', 'artificial neutral networks'}",3,3
+anova,{'analysi of varianc'},{'analysis of variance'},1,1
+anp,{'analyt network process'},{'analytical network process'},1,1
+aoa,{'angl of arriv'},{'angle of arriving'},1,1
+aod,{'aerosol optic depth'},{'aerosol optical depth'},1,1
+aode,{'averag one depend estim'},{'averaged one-dependence estimators'},1,1
+ap,{'action potenti'},{'action potential'},1,1
+api,"{'applic program interfac', 'air pollut index'}","{'air pollution index', 'application programming interface'}",2,2
+apk,{'applic packag'},{'application package'},1,1
+apmv,{'adapt predict mean vote'},{'adaptive predicted mean vote'},1,1
+apmv model,{'adapt predict mean vote model'},{'adaptive predicted mean vote model'},1,1
+aps,"{'attribut profil', 'morpholog attribut profil'}","{'attribute profiles', 'morphological attribute profiles'}",2,2
+apso,{'adapt particl swarm optim'},{'adaptive particle swarm optimization'},1,1
+apt,"{'atom probe tomographi', 'advanc persist threat'}","{'advanced persistent threat', 'advanced persistent threats', 'atom probe tomography'}",3,3
+apuf,{'arbit physic unclon function'},{'arbiter physically unclonable function'},1,1
+aqi,{'air qualiti index'},{'air quality index'},1,1
+ar,"{'linear autoregress', 'autoregress'}","{'linear autoregressive', 'autoregressive'}",2,2
+ard,{'automat relev determin'},{'automatic relevance determination'},1,1
+arm,{'associ rule mine'},{'association rule mining'},1,1
+arn,{'auto reson network'},{'auto resonance network'},1,1
+art,{'adapt reson theori'},{'adaptive resonance theory'},1,1
+arwu,{'academ rank of world univers'},{'academic ranking of world universities'},1,1
+as-built bim,{'build inform model'},{'building information modeling'},1,1
+ascat,{'advanc scatteromet'},{'advanced scatterometer'},1,1
+asd,{'autism spectrum disord'},{'autism spectrum disorder'},1,1
+ase,{'atom simul environ'},{'atomic simulation environment'},1,1
+asi,"{'autom surfac inspect', 'artifici social intellig'}","{'artificial social intelligence', 'automated surface inspection'}",2,2
+asic,{'applic specif integr circuit'},{'application-specific integrated circuit'},1,1
+asl,{'american sign languag'},{'american sign language'},1,1
+asnn,{'associ neural network'},{'associative neural network'},1,1
+asr,"{'automat speech recognit', 'hybrid automat speech recognit'}","{'automatic speech recognition', 'hybrid automatic speech recognition'}",2,2
+atc,{'analyz then compress'},{'analyze-then-compress'},1,1
+atl,{'adapt transport layer'},{'adaptive transport layer'},1,1
+atr,"{'autom target recognit', 'automat target recognit'}","{'automatic target recognition', 'automated target recognition'}",2,2
+auc,"{'area under roc curv', 'area under the curv'}","{'area under roc curve', 'area under the curve'}",2,2
+aukf,{'adapt unscent kalman filter'},{'adaptive unscented kalman filter'},1,1
+automl,{'autom machin learn'},{'automated machine learning'},1,1
+auv,{'autonom underwat vehicl'},{'autonomous underwater vehicle'},1,1
+av,{'audiovisu'},{'audiovisual'},1,1
+avc,{'activ voltag control'},{'active voltage control'},1,1
+avi,{'autom visual inspect'},{'automated visual inspection'},1,1
+avs,{'autonom vehicl'},{'autonomous vehicles'},1,1
+awpca,{'the accuraci  weight princip compon analysi'},{'the accuracy- weighted principal component analysis'},1,1
+aws,{'amazon web servic'},{'amazon web services'},1,1
+ba,{'busi analyt'},{'business analytics'},1,1
+bac,{'breast arteri calcif'},{'breast arterial calcification'},1,1
+bada,{'base of aircraft data'},{'base of aircraft data'},1,1
+bagging,{'bootstrap aggreg'},{'bootstrap aggregating'},1,1
+ban,{'bodi area network'},{'body area network'},1,1
+bbnns,{'block base neural network'},{'block-based neural networks'},1,1
+bbo,{'biogeographi base optim'},{'biogeography-based optimization'},1,1
+bbs,{'behavior base safeti'},{'behavior-based safety'},1,1
+bc,{'breast cancer'},{'breast cancer'},1,1
+bci,"{'brain comput interfac', 'onlin brain comput interfac', 'open sourc brain comput interfac', 'braincomput interfac', 'brain–comput interfac'}","{'open source brain-computer interface', 'brain computer interface', 'brain-computer interfaces', 'braincomputer interface', 'online brain computer interfacing', 'brain–computer interface', 'brain-computer interface'}",7,7
+bcis,{'brain comput interfac'},{'brain-computer interfaces'},1,1
+bcl,{'biochemicallibrari'},{'biochemicallibrary'},1,1
+bcm,"{'boundari conduct mode', 'bayesian cognit model'}","{'boundary conduction mode', 'bayesian cognitive model'}",2,2
+bcnn,{'binari weight convolut neural network'},{'binary weight convolutional neural network'},1,1
+bcrp,{'breast cancer resist protein'},{'breast cancer resistant protein'},1,1
+bda,{'big data analyt'},{'big data analytics'},1,1
+bdd,{'binari decis diagram'},{'binary decision diagram'},1,1
+bds,{'bispectra diagon slice'},{'bispectra diagonal slice'},1,1
+ber,{'bit error rate'},{'bit-error-rate'},1,1
+bera,{'bioelectr recognit assay'},{'bioelectric recognition assay'},1,1
+bess,{'batteri energi storag system'},{'battery energy storage system'},1,1
+beyond-cmos,{'beyond complementari metal oxid semiconductor'},{'beyond complementary metal-oxide-semiconductor'},1,1
+bfs,{'belief function'},{'belief functions'},1,1
+bgp,{'border gateway protocol'},{'border gateway protocol'},1,1
+bgs,{'background subtract'},{'background subtraction'},1,1
+bhp,{'burst header packet'},{'burst header packet'},1,1
+bi,{'busi intellig'},{'business intelligence'},1,1
+bi-rads,{'breast imag report and data system'},{'breast imaging reporting and data system'},1,1
+bim,"{'busi inform model', 'build inform model'}","{'building information model', 'building information modelling', 'business information modelling', 'building information modeling'}",4,4
+bioinformatics,{'genom or protein'},{'genome or protein'},1,1
+biology,{'evolut'},{'evolution'},1,1
+biometrics,{'access control'},{'access control'},1,1
+biorthogonal,"{'bio3.7 , bio4.2 & bio4.7'}","{'bio3.7, bio4.2 & bio4.7'}",1,1
+biqa,"{'univers blind iqa', 'blind imag qualiti assess'}","{'blind image quality assessment', 'universal blind iqa'}",2,2
+bist,{'built in self test'},{'built-in-self-test'},1,1
+bist 100,{'borsa istanbul'},{'borsa istanbul'},1,1
+blas,{'basic linear algebra subprogram'},{'basic linear algebra subprograms'},1,1
+blde,{'balanc local discrimin embed'},{'balanced local discriminant embedding'},1,1
+ble,{'bluetooth low energi'},{'bluetooth low energy'},1,1
+blstm,{'bidirect long short term memori neural network'},{'bidirectional long short-term memory neural networks'},1,1
+bmd,{'bone miner densiti'},{'bone mineral density'},1,1
+bmi,"{'brainmachin interfac', 'bodi mass index', 'brain machin interfac'}","{'brainmachine interface', 'body mass index', 'brain-machine interface'}",3,3
+bms,{'batteri manag system'},{'battery management systems'},1,1
+bmss,{'batteri manag system'},{'battery management systems'},1,1
+bn,{'bayesian network'},{'bayesian network'},1,1
+bnn,{'binar neural network'},{'binarized neural network'},1,1
+bns,{'bayesian network'},{'bayesian networks'},1,1
+bo,{'bayesian optim'},{'bayesian optimization'},1,1
+boa,{'basin of attract'},{'basin of attraction'},1,1
+bocf,{'bag of convolut featur'},{'bag of convolutional features'},1,1
+bof,{'bag of featur'},"{'bag-of-features', 'bag of features'}",2,2
+botda,{'brillouin optic time domain'},{'brillouin optical time domain'},1,1
+bovw,{'bag of visual word'},"{'bag of visual words', 'bag-of-visual-words'}",2,2
+bovws,{'bag of visual word'},{'bag-of-visual-words'},1,1
+bow,{'bag of word'},"{'bag of words', 'bag-of-words'}",2,2
+bp,"{'back propag', 'blood pressur', 'backpropag', 'belief propag'}","{'back propagation', 'backpropagation', 'blood pressure', 'belief propagation', 'back-propagation'}",5,5
+bp-ann,{'back propag artifici neural network'},{'back propagation-artificial neural network'},1,1
+bpa,{'batch prune algorithm'},{'batch pruning algorithm'},1,1
+bpann,{'backpropag artifici neural network'},{'backpropagation artificial neural network'},1,1
+bpm,{'border pair method'},{'border pairs method'},1,1
+bpn,{'back propag network'},{'back propagation network'},1,1
+brdf,{'bidirect reflect distribut function'},{'bidirectional reflectance distribution function'},1,1
+bsm,{'binari similar measur'},{'binary similarity measures'},1,1
+bsn,{'bodi sensor network'},{'body sensor networks'},1,1
+bsns,"{'bodi sensor network', 'wireless bodi sensor network'}","{'wireless body sensor networks', 'body sensor networks'}",2,2
+bsoc,{'batteri state of charg'},{'battery state-of-charge'},1,1
+bsp,{'behavior signal process'},{'behavioral signal processing'},1,1
+bss,"{'blind sourc separ', 'underdetermin convolut blind sourc separ'}","{'blind source separation', 'underdetermined convolutive blind source separation'}",2,2
+bsts,{'bayesian structur time seri'},{'bayesian structural time series'},1,1
+bti,{'bias temperatur instabl'},{'bias temperature instability'},1,1
+bts,{'binari tree of support vector machin'},{'binary tree of support vector machine'},1,1
+bvm,{'ball vector machin'},{'ball vector machines'},1,1
+c-nmf,{'collect nmf'},{'collective nmf'},1,1
+c-s,{'center surround'},{'center-surround'},1,1
+c.t.r,{'click through rate'},{'click through rate'},1,1
+c2f,{'custom to factori'},{'customer-to-factory'},1,1
+c4.5,{'decis tree'},{'decision tree'},1,1
+ca,{'cellular automata'},{'cellular automata'},1,1
+caad,{'comput aid ad diagnosi'},{'computer aided ad diagnosis'},1,1
+cabg,{'coronari arteri bypass surgeri'},{'coronary artery bypass surgery'},1,1
+cac,"{'dynam connect admiss control', 'connect admiss control'}","{'connection admission control', 'dynamic connection-admission control'}",2,2
+cacd,{'comput aid cardiac diagnosi'},{'computer aided cardiac diagnosis'},1,1
+cad,"{'comput aid design', 'intellig comput aid diagnosi', 'comput aid detect', 'comput aid diagnost', 'comput aid diagnosi', 'comput r aid diagnosi'}","{'computer aided diagnosis', 'computer-aided diagnosis', 'computer aided diagnostics', 'computer aided detection', 'computer aide diagnosis', 'computer-aided design', 'intelligent computer-aided diagnosis', 'computer aided diagnostic', 'compute r-aided diagnosis', 'computer-aided detection'}",10,10
+cad tools,{'eda tool'},{'eda tools'},1,1
+cade,{'comput aid detect'},"{'computer-aided detection', 'computer aided detection'}",2,2
+cadx,{'comput aid diagnosi'},{'computer-aided diagnosis'},1,1
+cae,{'coupl autoencod'},{'coupling autoencoder'},1,1
+cai,{'comput assist intervent'},{'computer-assisted interventions'},1,1
+call,{'comput aid languag learn'},{'computer aided language learning'},1,1
+candecomp,{'canon decomposit'},{'canonical decomposition'},1,1
+capd,{'central auditori process disord'},{'central auditory processing disorder'},1,1
+capp,{'comput aid process plan'},{'computer aided process planning'},1,1
+captcha,{'complet autom public ture test to tell comput and human apart'},"{'completely automated public turing test to tell computers and human apart', 'completely automated public turing test to tell computers and humans apart'}",2,2
+cart,{'classif and regress tree'},"{'classification and regression tree', 'classification and regression trees'}",2,2
+casa,{'comput auditori scene analysi'},{'computational auditory scene analysis'},1,1
+casp,{'critic assess of structur predict'},{'critical assessment of structure prediction'},1,1
+cbir,"{'contentbas imag retriev', 'content base imag retriev', 'biomed imag retriev'}","{'content based image retrieval', 'content-based image retrieval', 'contentbased image retrieval', 'biomedical image retrieval'}",4,4
+cbm,{'condit base mainten'},{'condition based maintenance'},1,1
+cbmir,{'content base medic imag retriev'},{'content based medical image retrieval'},1,1
+cbn,{'cubic boron nitrid'},{'cubic boron nitride'},1,1
+cbpn,{'circular back propag neural network'},{'circular back propagation neural network'},1,1
+cbr,{'case base reason'},"{'case based reasoning', 'case-based reasoning'}",2,2
+cbram,{'conduct bridg ram'},{'conductive bridge ram'},1,1
+cc,"{'connect compon', 'cloud comput', 'chief compliant', 'cognit comput', 'cooper coevolut'}","{'chief compliant', 'connected component', 'cognitive computing', 'cooperative coevolution', 'cloud computing'}",5,5
+cca,{'canon correl analysi'},{'canonical correlation analysis'},1,1
+ccc,{'common control channel'},{'common control channel'},1,1
+cccp,{'concav convex procedur'},{'concave-convex procedure'},1,1
+ccert,{'capacit coupl electr resist tomographi'},{'capacitively coupled electrical resistance tomography'},1,1
+ccn,{'convolut neural network'},{'convolutional neural networks'},1,1
+cctv,{'close circuit televis'},{'closed circuit television'},1,1
+ccv,{'color coher vector'},{'color coherence vector'},1,1
+cd,"{'coordin descent', 'celiac diseas', 'critic dimens', 'critic dimension'}","{'celiac disease', 'critical dimensions', 'critical dimensional', 'coordinate descent'}",4,4
+cd-afm,{'critic dimens atom forc microscopi'},{'critical dimension atomic force microscopy'},1,1
+cd-hmms,{'continu densiti hidden markov model'},{'continuous density hidden markov models'},1,1
+cd-mmf,{'context depend mmf'},{'context-dependent mmf'},1,1
+cd-sem,{'critic dimens scan electron microscopi'},{'critical dimension scanning electron microscopy'},1,1
+cdma,{'code divis multipl access'},{'code division multiple access'},1,1
+cdna,{'complementari deoxyribonucl acid'},{'complementary deoxyribonucleic acid'},1,1
+cdp,{'citi carbon disclosur project'},{'city carbon disclosure project'},1,1
+cdq,{'coke dri quench'},{'coke dry quenching'},1,1
+cdr,"{'call detail record', 'clinic dementia rate scale'}","{'call detail record', 'clinical dementia rating scale'}",2,2
+cdss,{'clinic decis support system'},"{'clinical decision support systems', 'clinical decision support system'}",2,2
+cdts,{'chang detect test'},{'change-detection tests'},1,1
+cdu,{'cd uniform'},{'cd uniformity'},1,1
+cdw,{'construct and demolit wast'},{'construction and demolition waste'},1,1
+ce,{'cross entropi'},{'cross-entropy'},1,1
+ceos,{'committe on earth observ satellit'},{'committee on earth observing satellites'},1,1
+cep,{'complex event process'},{'complex event processing'},1,1
+cf,{'collabor filter'},{'collaborative filtering'},1,1
+cf-mmf,{'context free mmf'},{'context-free mmf'},1,1
+cfbc fly ash,{'circul fluidiz bed combust fli ash'},{'circulated fluidized bed combustion fly ash'},1,1
+cfd,{'comput fluid dynam'},{'computational fluid dynamics'},1,1
+cfss,{'complex fuzzi set'},{'complex fuzzy sets'},1,1
+cga,{'constrain genet algorithm'},{'constrained genetic algorithms'},1,1
+cgans,{'condit generat adversari network'},{'conditional generative adversarial networks'},1,1
+cgm,"{'continu glucos monitor', 'consum generat media'}","{'consumer generated media', 'continuous glucose monitoring'}",2,2
+cgra,{'coars grain reconfigur architectur'},{'coarse-grained reconfigurable architecture'},1,1
+chd,{'coronari heart diseas'},{'coronary heart disease'},1,1
+chf,{'congest heart failur'},{'congestive heart failure'},1,1
+chisel,{'construct hardwar in scala embed languag'},{'constructing hardware in scala embedded language'},1,1
+chm,{'condit and health manag'},{'condition and health management'},1,1
+chmm,{'coupl hidden markov mode'},{'coupled hidden markov mode'},1,1
+cho,{'channel hotel observ'},{'channelized hotelling observer'},1,1
+chog,{'cell base histogram of orient gradient'},{'cell-based histograms of oriented gradients'},1,1
+chp,{'combin heat and power'},{'combined heat and power'},1,1
+ci,"{'comput intellig', 'camera identif'}","{'camera identification', 'computational intelligence'}",2,2
+ciot,{'cognit internet of thing'},{'cognitive internet of things'},1,1
+cip,{'cluster impur'},{'cluster impurity'},1,1
+cir,{'channel impuls respons'},{'channel impulse response'},1,1
+ckb,{'collabor knowledg build'},{'collaborative knowledge building'},1,1
+ckd,{'chronic kidney diseas'},{'chronic kidney disease'},1,1
+cks,{'contextu knowledg structur'},{'contextual knowledge structures'},1,1
+cl,{'chow liu'},{'chow-liu'},1,1
+clbp,{'complet local binari pattern'},{'completed local binary pattern'},1,1
+clir,{'cross languag inform retriev'},{'cross-language information retrieval'},1,1
+cll,{'chronic lymphocyt leukemia'},{'chronic lymphocytic leukemia'},1,1
+clm,"{'codebookless model', 'cross loop/monopol'}","{'crossed-loop/monopole', 'codebookless model'}",2,2
+clp,{'constraint logic program'},{'constraint logic programming'},1,1
+cm,"{'cultur model', 'condit monitor'}","{'cultural modeling', 'condition monitoring'}",2,2
+cmac,{'cerebellar model articul control'},{'cerebellar model articulation controller'},1,1
+cmh,{'cross modal hash'},{'cross-modal hashing'},1,1
+cmos,{'complementari metal oxid semiconductor'},{'complementary metal-oxide semiconductor'},1,1
+cmp,"{'chip multiprocessor', 'chemic mechan polish'}","{'chemical mechanical polishing', 'chip-multiprocessor'}",2,2
+cnets,{'convolut network'},{'convolutional networks'},1,1
+cnfs,{'complex neuro fuzzi system'},{'complex neuro-fuzzy system'},1,1
+cnn,"{'deep learn : convolut neural network', 'deep convolut neural network', 'convolut neural network', 'pretrain convolut neural network', 'convolut neutral network', 'self adapt momentum ( sm ) convolut neural network', 'convolutionnel neural network'}","{'deep learning: convolutional neural network', 'deep convolutional neural networks', 'pretrained convolutional neural network', 'deep convolutional neural network', 'convolutionnel neural network', 'convolutional neural network', 'convolutional neural networks', 'convolution neural network', 'convolutional neutral network', 'self-adaptive momentum (sm) convolutional neural network'}",10,10
+cnn-lstm,{'convolut neural network long short term memori'},{'convolutional neural network-long short-term memory'},1,1
+cnns,"{'deep convolut neural network', 'convolut neural network'}","{'convolutional neural networks', 'deep convolutional neural networks'}",2,2
+cns,{'central nervous system'},{'central nervous system'},1,1
+cnts,{'carbon nanotub'},{'carbon nanotubes'},1,1
+coalbp,{'cooccurr of adjac local binari pattern'},{'cooccurrence of adjacent local binary patterns'},1,1
+coap,{'constrain applic protocol'},{'constrained application protocol'},1,1
+cod,{'chemic oxygen demand'},{'chemical oxygen demand'},1,1
+comid,{'composit object mirror descent'},{'composite objective mirror descent'},1,1
+computer,{'neural network'},"{'neural network', 'neural networks'}",2,2
+conv-lstm,{'convolut long short term memori network'},{'convolutional long short-term memory network'},1,1
+convnet,"{'deep convolut network', 'convolut neural network'}","{'deep convolutional network', 'convolutional neural network'}",2,2
+convnets,"{'convolut network', 'deep convolut network'}","{'deep convolutional networks', 'convolutional networks'}",2,2
+convrnns,{'convolut recurr neural network'},{'convolutional recurrent neural networks'},1,1
+coo,{'constrain ordin optim'},{'constrained ordinal optimization'},1,1
+copd,"{'chronic obstruct pulmonari diseas', 'collect of part detector'}","{'collection of part detectors', 'chronic obstructive pulmonary disease'}",2,2
+cosen,{'cost sensit'},{'cost-sensitive'},1,1
+cp,"{'constraint program', 'candecomp/parafac', 'cuff pressur'}","{'constraint programing', 'cuff pressure', 'candecomp/parafac'}",3,3
+cpd,{'canon polyad decomposit'},{'canonical polyadic decomposition'},1,1
+cpds,{'custom power devic'},{'custom power devices'},1,1
+cpr,{'cardiopulmonari resuscit'},{'cardiopulmonary resuscitation'},1,1
+cps,"{'cyber physic system', 'collabor problem solv', 'condit paramet'}","{'collaborative problem solving', 'condition parameters', 'cyber-physical systems', 'cyber physical systems', 'cyber-physical system'}",5,5
+cpso,{'cluster base particl swarm optim'},{'clustering-based particle swarm optimization'},1,1
+cpss,"{'cyber physic system', 'cyber physic social system'}","{'cyber-physical-social systems', 'cyber-physical systems', 'cyber physical social system'}",3,3
+cq,{'cluster qualiti'},{'clustering quality'},1,1
+cqa,{'communiti question answer'},{'community question answering'},1,1
+cr,{'cumul risk'},{'cumulative risk'},1,1
+cra,{'cognit radio architectur'},{'cognitive radio architecture'},1,1
+crf,"{'3 d condit random field', 'condit random field'}","{'conditional random fields', '3-d conditional random field', 'conditional random field'}",3,3
+crfs,"{'condit random field', 'continu condit random field'}","{'conditional random fields', 'condition random fields', 'conditional random field', 'continuous conditional random field'}",4,4
+crm,{'custom relationship manag'},{'customer relationship management'},1,1
+crn,{'cognit radio network'},{'cognitive radio network'},1,1
+crns,{'cognit radio network'},{'cognitive radio networks'},1,1
+crrt,{'continu renal replac therapi'},{'continuous renal replacement therapy'},1,1
+crs,{'complementari resist switch'},"{'complementary resistive switch', 'complementary resistive switching'}",2,2
+crt,{'circular radon transform'},{'circular radon transform'},1,1
+crvfl,{'convolut random vector function link'},{'convolutional random vector functional link'},1,1
+cs,"{'compon substitut', 'compress sens'}","{'compressive sensing', 'component substitution', 'compressed sensing'}",3,3
+cs-2,{'cryosat 2'},{'cryosat-2'},1,1
+csd,{'cognit spectrum decis'},{'cognitive spectrum decision'},1,1
+csf,{'contrast sensit function'},{'contrast sensitivity function'},1,1
+csi,"{'channel state inform', 'camera sourc identif'}","{'camera source identification', 'channel state information', 'channel-state information'}",3,3
+csm,{'cervic spondylot myelopathi'},{'cervical spondylotic myelopathy'},1,1
+cso,{'cuckoo search optim'},{'cuckoo search optimization'},1,1
+csp,{'common spatial pattern'},"{'common spatial pattern', 'common spatial patterns'}",2,2
+css,{'coordin and sink station'},{'coordinator and sink station'},1,1
+cst,{'cross document structur theori'},{'cross-document structure theory'},1,1
+ct,"{'comput tomographi', 'helic comput tomographi', 'current transform', 'x ray comput tomographi', 'pediatr abdomin comput tomographi'}","{'helical computed tomography', 'current transformer', 'computed tomography', 'pediatric abdominal computed tomography', 'x-ray computed tomography', 'computer tomography'}",6,6
+cta,{'comput tomographi angiographi'},{'computed tomography angiography'},1,1
+ctc,{'connectionist tempor classif'},{'connectionist temporal classification'},1,1
+ctg,{'cardiotocogram'},{'cardiotocogram'},1,1
+cti,{'cyber threat intellig'},{'cyber threat intelligence'},1,1
+ctmc,{'continu time markov chain'},{'continuous time markov chain'},1,1
+ctq,{'critic to qualiti'},{'critical to quality'},1,1
+cu,{'code unit'},{'coding unit'},1,1
+cv,"{'comparison variat', 'comput vision', 'cross valid'}","{'computer vision', 'cross validation', 'comparison variation'}",3,3
+cv-cnn,{'complex valu convolut neural network'},{'complex-valued convolutional neural network'},1,1
+cvd,{'cardiovascular diseas'},"{'cardiovascular disease', 'cardiovascular diseases'}",2,2
+cvm,{'core vector machin'},{'core vector machines'},1,1
+cw,{'current waveform'},{'current waveform'},1,1
+cwd,{'choi william distribut'},{'choi-williams distribution'},1,1
+cwpcc,{'coiflet wavelet packet cepstral coeffici'},{'coiflet wavelet packets cepstral coefficients'},1,1
+cwt,{'continu wavelet transform'},{'continuous wavelet transform'},1,1
+cww,{'comput with word'},{'computing with words'},1,1
+cxx,{'convolut neural xetwor'},{'convolution neural xetworli'},1,1
+d-cnn,{'deep convolut neural network'},{'deep convolutional neural networks'},1,1
+d-cnns,{'discrimin cnns'},{'discriminative cnns'},1,1
+d2a,{'dual detector architectur'},{'dual-detector architecture'},1,1
+d2its,{'data driven intellig transport system'},{'data-driven intelligent transportation systems'},1,1
+da,"{'deep autoencod', 'denois autoencod', 'discrimin analysi'}","{'denoising autoencoder', 'deep autoencoder', 'discriminant analysis'}",3,3
+dae,"{'deep auto encod', 'denois autoencod', 'denois auto encod'}","{'deep auto-encoder', 'denoising auto-encoding', 'denoising autoencoder'}",3,3
+dan2,{'dynam artifici neural network'},{'dynamic artificial neural networks'},1,1
+dash,{'dynam adapt stream over http'},{'dynamic adaptive streaming over http'},1,1
+dbm,{'deep boltzmann machin'},{'deep boltzmann machine'},1,1
+dbn,"{'deep belief network', 'deep belief net'}","{'deep belief networks', 'deep belief network', 'deep belief net'}",3,3
+dbn-dl,{'deep belief network base deep learn'},{'deep belief network based deep learning'},1,1
+dbnn,{'deep belief neural network'},{'deep belief neural network'},1,1
+dbns,"{'dynam bayesian network', 'deep belief network'}","{'dynamic bayesian networks', 'deep belief networks'}",2,2
+dbp,{'differenti boundari pattern'},{'differential boundary pattern'},1,1
+dca,{'discrimin correl analysi'},{'discriminant correlation analysis'},1,1
+dcann,{'dynam choos artifici neural network'},{'dynamic choosing artificial neural network'},1,1
+dccm,{'deep convolut comput model'},{'deep convolutional computation model'},1,1
+dce,{'discret curv evolut'},{'discrete-curve evolution'},1,1
+dce-mri,{'dynam contrast enhanc magnet reson imag'},{'dynamic contrast enhanced magnetic resonance imaging'},1,1
+dcnn,"{'deep convolut neural network', 'dual channel neural network'}","{'deep convolutional neural networks', 'dual-channel neural networks', 'deep convolutional neural network', 'deep convolution neural network'}",4,4
+dcnns,"{'deep convolut neural network ,'}","{'deep convolutional neural networks,'}",1,1
+dct,{'discret cosin transform'},{'discrete cosine transform'},1,1
+dcton,{'distribut of color ton'},{'distribution of color ton'},1,1
+dd,"{'distanc densiti', 'degre distribut'}","{'distance density', 'degree distribution'}",2,2
+dda,{'dynam difficulti adjust'},{'dynamic difficulty adjustment'},1,1
+ddae,{'deep denois autoencod'},{'deep denoising autoencoder'},1,1
+ddbn,{'discrimin deep belief network'},"{'discriminative deep belief network', 'discriminative deep belief networks'}",2,2
+ddi,{'drug drug interact'},{'drug-drug interaction'},1,1
+ddkl,{'down down keystrok latenc'},{'down-down keystroke latency'},1,1
+ddna,{'decision dna'},{'decisional dna'},1,1
+ddos,{'distribut denial of servic'},"{'distributed denial-of-service', 'distributed denial of service'}",2,2
+ddp,{'data driven predict'},{'data-driven prediction'},1,1
+dds,{'data distribut servic'},{'data distribution service'},1,1
+ddwt,{'discreet dyadic wavelet transform'},{'discreet dyadic wavelet transform'},1,1
+de,{'differenti evolut'},{'differential evolution'},1,1
+dec,{'display energi certif'},{'display energy certificate'},1,1
+deep learning,{'artifici intellig'},{'artificial intelligence'},1,1
+deletion,{'insert'},{'insertion'},1,1
+delm,{'deep extrem learn machin'},{'deep extreme learning machine'},1,1
+demosaicing,{'interpol'},{'interpolation'},1,1
+df,"{'data fusion', 'domin frequenc'}","{'data fusion', 'dominant frequency'}",2,2
+dfm,{'design for manufactur'},{'design for manufacturability'},1,1
+dfr,{'design for reliabl'},{'design-for-reliability'},1,1
+dft,{'densiti function theori'},{'density functional theory'},1,1
+dg,{'invert base distribut generat'},{'inverter-based distributed generation'},1,1
+dga,"{'dissolv gas analysi', 'domain generat algorithm'}","{'dissolved gas analysis', 'domain generation algorithm'}",2,2
+dgas,{'domain generat algorithm'},{'domain generation algorithms'},1,1
+dgc,{'data gravit base classif'},{'data gravitation based classification'},1,1
+dgms,{'deep generat model'},{'deep generative models'},1,1
+dhmm,"{'discret hidden markov model', 'durat hmm'}","{'discrete hidden markov model', 'duration hmm'}",2,2
+dhs-artmap,{'distribut hyper spheric artmap'},{'distributed hyper-spherical artmap'},1,1
+di,{'data integr'},{'data integrator'},1,1
+diagnostic,{'classif'},{'classification'},1,1
+dicom,{'digit imag and communic in medicin'},{'digital imaging and communications in medicine'},1,1
+differential,{'decrement'},{'decremental'},1,1
+dip,"{'qualiti discrimin imag pair', 'voltag sag'}","{'voltage sag', 'quality-discriminable image pair'}",2,2
+dkdf,{'distribut knowledg discoveri framework'},{'distributed knowledge discovery framework'},1,1
+dknn,{'deep kohonen neural network'},{'deep kohonen neural network'},1,1
+dkt,{'deep knowledg trace'},{'deep knowledge tracing'},1,1
+dl,"{'coupl dictionari learn', 'class specif dictionari learn', 'deep learn'}","{'class-specific dictionary learning', 'deep learning', 'coupled dictionary learning'}",3,3
+dla,{'deep learn algorithm'},{'deep learning algorithm'},1,1
+dlanns,{'deep learn ann'},{'deep learning anns'},1,1
+dlbi,{'deep learn base identif'},{'deep learning based identification'},1,1
+dln,{'deep learn network'},{'deep learning network'},1,1
+dlnn,{'deep learn neural network'},{'deep learning neural network'},1,1
+dm,{'data mine'},{'data mining'},1,1
+dma,{'dynam mechan analysi'},{'dynamic mechanical analysis'},1,1
+dme,{'diabet macular edema'},{'diabetic macular edema'},1,1
+dml,"{'distanc metric learn', 'deep manifold learn'}","{'deep manifold learning', 'distance metric learning'}",2,2
+dmla,{'dynam machin learn approach'},{'dynamic machine learning approach'},1,1
+dmrf,{'discret markov random field'},{'discrete markov random field'},1,1
+dna,{'deoxyribonucl acid'},{'deoxyribonucleic acid'},1,1
+dndp,{'discret network design problem'},{'discrete network design problem'},1,1
+dnn,{'deep neural network'},"{'deep neural networks', 'deep neural network'}",2,2
+dnns,{'deep neural network'},{'deep neural networks'},1,1
+dns,{'domain name servic'},{'domain name service'},1,1
+doa,{'direct of arriv'},{'direction of arrival'},1,1
+doe,{'design of experi'},{'design of experiments'},1,1
+doepp,{'discrimin orthogon elast preserv project'},{'discriminative orthogonal elastic preserving projections'},1,1
+dos,{'denial of servic'},{'denial-of-service'},1,1
+dp,{'dynam program'},{'dynamic programming'},1,1
+dpm,{'dirichlet process mixtur'},{'dirichlet process mixture'},1,1
+dps,{'distribut paramet system'},{'distributed parameter system'},1,1
+dq-lut,{'distribut quad lut'},{'distributed quad-lut'},1,1
+dr,"{'reconstruct nonlinear dimension reduct', 'diabet retinopathi', 'disast recoveri', 'dimens reduct', 'demand respons'}","{'dimension reduction', 'diabetic retinopathy', 'reconstructible nonlinear dimensionality reduction', 'demand response', 'disaster recovery'}",5,5
+drl,{'deep reinforc learn'},{'deep reinforcement learning'},1,1
+drlsc,{'discrimin regular least squar classifi'},{'discriminatively regularized least square classifier'},1,1
+drnn,{'deep recurr neural network'},{'deep recurrent neural network'},1,1
+drr,{'direct to reverber energi ratio'},"{'direct-to-reverberation energy ratio', 'direct-to-reverberant energy ratio'}",2,2
+drsa,{'domin base rough set approach'},{'dominance-based rough set approach'},1,1
+dsa,{'direct self assembl'},{'directed self-assembly'},1,1
+dsae,{'deep stack autoencod'},{'deep stacked autoencoder'},1,1
+dslr,{'digit singl len reflex'},{'digital single lens reflex'},1,1
+dsm,"{'demand side manag', 'differ similitud matrix', 'digit surfac model'}","{'demand side management', 'difference-similitude matrix', 'digital surface model'}",3,3
+dsn,{'deep stack network'},{'deep stacking network'},1,1
+dsnn-1,{'deep synerget neural network  one'},{'deep synergetic neural network- one'},1,1
+dso,{'distribut system oper'},{'distribution system operator'},1,1
+dsom,{'deep self organ map'},{'deep self organizing map'},1,1
+dsp,"{'digit signal process', 'dynam synchron parallel strategi'}","{'dynamic synchronous parallel strategy', 'digital signal process'}",2,2
+dsr,{'design scienc research'},{'design science research'},1,1
+dss,{'decis support system'},"{'decision support systems', 'decision support system'}",2,2
+dsss,{'decis support system'},{'decision support systems'},1,1
+dsvms,{'distribut support vector machin'},{'distributed support vector machines'},1,1
+dt,{'decis tree'},"{'decision trees', 'decision tree'}",2,2
+dt-cwt,{'dual tree complex wavelet transform'},{'dual-tree complex wavelet transform'},1,1
+dtcwpt,{'dual tree complex wavelet packet transform'},{'dual-tree complex wavelet packet transform'},1,1
+dtcwt,{'dual tree complex wavelet transform'},{'dual tree complex wavelet transform'},1,1
+dth,{'deep transfer hash'},{'deep transfer hashing'},1,1
+dti,{'diffus tensor imag'},{'diffusion tensor imaging'},1,1
+dtm,"{'digit terrain model', 'digit tomosynthesi mammographi'}","{'digital tomosynthesis mammography', 'digital terrain models', 'digital terrain model'}",3,3
+dtsep,{'dynam thermo sensit electr paramet'},{'dynamic thermo-sensitive electrical parameter'},1,1
+dtw,{'dynam time warp'},{'dynamic time warping'},1,1
+dudley metric,{'dual bound lipschitz distanc'},{'dual-bounded lipschitz distance'},1,1
+dv,{'design verif'},{'design verification'},1,1
+dv-hop,{'distanc vector hop'},{'distance vector hop'},1,1
+dvc,{'distribut video code'},{'distributed video coding'},1,1
+dvfs,{'dynam voltag and frequenc scale'},{'dynamic voltage and frequency scaling'},1,1
+dvg,{'differ visibl graph'},{'difference visibility graph'},1,1
+dvr,{'dynam voltag restor'},{'dynamic voltage restorer'},1,1
+dwt,{'discret wavelet transform'},"{'discrete wavelet transform', 'discrete wavelet transformation'}",2,2
+e-state,{'electrotopolog state'},{'electrotopological-state'},1,1
+e.o.g,{'electro oculographi'},{'electro-oculography'},1,1
+eas,{'evolutionari algorithm'},{'evolutionary algorithms'},1,1
+ec,"{'evolutionari classifi', 'eddi current', 'evolutionari comput'}","{'evolutionary computation', 'evolutionary classifier', 'eddy currents', 'evolutionary computing'}",4,4
+ecd,{'electr cd'},{'electrical cd'},1,1
+ecfg,{'extend context free grammar'},{'extended context free grammar'},1,1
+ecfp_4,{'extend connect fingerprint'},{'extended connectivity fingerprints'},1,1
+ecg,"{'electrocardiograph', 'public domain electrocardiogram', 'electrocardiographi', 'person electrocardiogram', 'singl lead electrocardiogram', 'electrocardiogram'}","{'electrocardiography', 'personalized electrocardiogram', 'public domain electrocardiogram', 'electrocardiograph', 'electrocardiographic', 'single-lead electrocardiogram', 'electrocardiogram'}",7,7
+eclass,{'extend class'},{'extended class'},1,1
+ecmwf,{'european centr for medium rang weather forecast'},{'european centre for medium-range weather forecasts'},1,1
+ecoc,{'error correct output code'},"{'error correcting output codes', 'error-correcting output codes'}",2,2
+ecsp,{'edg cross section profil'},{'edge cross-section profile'},1,1
+ect,"{'electr capacit tomographi', 'eddi current test'}","{'electrical capacitance tomography', 'eddy current testing'}",2,2
+ecus,{'electron control unit'},{'electronic control units'},1,1
+edadt,{'effici data adapt decis tree'},{'efficient data adapted decision tree'},1,1
+edc,{'exponenti decay characterist'},{'exponential decay characteristic'},1,1
+edfa,{'erbium dope fiber amplifi'},{'erbium-doped fiber amplifiers'},1,1
+edm,{'educ data mine'},{'educational data mining'},1,1
+ee,{'energi expenditur'},{'energy expenditure'},1,1
+eeg,"{'electroen cephalographi', 'electroenceptographi', 'electroencephalograph', 'electro encephalo gram', 'electroencephalogram signal', 'scalp electroencephalographi', 'dri electroencephalograph', 'electroencephalographi', 'electroencephalogram'}","{'electroenceptography', 'scalp electroencephalography', 'electroencephalographic', 'electroencephalograph', 'electro encephalo gram', 'electroencephalogram signals', 'electroen-cephalography', 'electroencephalography', 'dry electroencephalographic', 'electroencephalogram'}",10,10
+egcs,{'elev group control system'},{'elevator group control system'},1,1
+egv,{'electr ground vehicl'},{'electric ground vehicle'},1,1
+egwo,{'experienc gray wolf optim'},{'experienced gray wolf optimization'},1,1
+ehg,{'electrohysterogram'},{'electrohysterogram'},1,1
+ehr,"{'sampl from longitudin electron health record', 'electron health record'}","{'sampling from longitudinal electronic health records', 'electronic health records'}",2,2
+ehrs,{'electron health record'},{'electronic health records'},1,1
+ei,{'entropi gain inform'},{'entropy gain information'},1,1
+eid,{'equival input disturb'},{'equivalent input disturbance'},1,1
+eis,{'enterpris inform system'},{'enterprise information system'},1,1
+eit,{'electr imped tomographi'},{'electrical impedance tomography'},1,1
+ejs,{'easi java simul'},{'easy java simulation'},1,1
+ekf,{'extend kalman filter'},{'extended kalman filter'},1,1
+el,{'ensembl learn'},{'ensemble learning'},1,1
+elearning,{'web base learning/dist learn'},{'web-based learning/distance learning'},1,1
+electric,{'discharg'},{'discharges'},1,1
+elm,"{'extrem learningmachin', 'extrem learn machin', 'extrem machin learn', 'extremem learn machin'}","{'extreme learning machines', 'extreme learningmachine', 'extrememe learning machine', 'extreme machine learning', 'extreme learning machine'}",5,5
+elsd,{'ellips and line segment detector'},{'ellipse and line segment detector'},1,1
+elw,{'equiti link warrant'},{'equity linked warrant'},1,1
+em,"{'electro migrat', 'expect maxim', 'electromagnet', 'expect maxim cluster algorithm'}","{'expectation-maximization', 'expectation maximization', 'expectation maximization clustering algorithm', 'electro-migration', 'electromagnetic'}",5,5
+emap,{'extend multi attribut profil'},{'extend multi-attribute profiles'},1,1
+emaps,{'extend multiattribut profil'},{'extended multiattribute profiles'},1,1
+emat,{'electromagnet acoust transduc'},{'electromagnetic acoustic transducer'},1,1
+emc,{'electromagnet compat'},{'electromagnetic compatibility'},1,1
+emd,"{'empir mode decomposit', 'entropi minim discret'}","{'empirical mode decomposition', 'entropy minimization discretization'}",2,2
+emg,"{'electromyogram', 'high densiti electromyographi', 'electromyograph', 'surfac electromyogram', 'electromyographi'}","{'electromyography', 'electromyogram', 'surface electromyogram', 'high-density electromyography', 'electromyographic'}",5,5
+emh,{'effici market hypothesi'},{'efficient market hypothesis'},1,1
+emi,{'electromagnet interfer'},{'electromagnetic interference'},1,1
+eml,{'extrem machin learn'},{'extreme machine learning'},1,1
+emo,{'evolutionari multiobject optim'},{'evolutionary multiobjective optimization'},1,1
+emp,{'extend morpholog profil'},{'extended morphological profile'},1,1
+emr,{'electron medic record'},{'electronic medical record'},1,1
+emss,{'energi manag system'},{'energy management systems'},1,1
+emt,"{'electromagnet track', 'electromagnet tomographi'}","{'electromagnetic tracking', 'electromagnetic tomography'}",2,2
+end,{'energi not distribut'},{'energy-not-distributed'},1,1
+eoc,{'ensembl one class classifi'},{'ensemble one-class classifier'},1,1
+eodh,{'edg orient differ histogram'},{'edge orientation difference histogram'},1,1
+eog,"{'electro oculographi', 'elctro oculogram', 'electrooculogram', 'electrooculographi'}","{'electro-oculography', 'electrooculography', 'elctro-oculogram', 'electrooculogram'}",4,4
+eon,{'elast optic network'},{'elastic optical networks'},1,1
+eos,{'earli onset schizophrenia'},{'early-onset schizophrenia'},1,1
+ep,{'evolutionari program'},{'evolutionary programming'},1,1
+eps,"{'edg preserv smooth', 'european polar system'}","{'edge-preserving smoothing', 'european polar system'}",2,2
+epu,{'econom polici uncertainti'},{'economic policy uncertainty'},1,1
+erd,{'event relat desynchron'},{'event-related desynchronization'},1,1
+erd/ers,{'event relat ( de ) synchron'},{'event-related (de)synchronization'},1,1
+erd/s,{'event relat desynchronization/synchron'},{'event-related desynchronization/synchronization'},1,1
+erm,{'experi risk minim'},{'experience risk minimization'},1,1
+erp,{'event relat potenti'},{'event-related potential'},1,1
+erps,{'event relat potenti'},{'event-related potentials'},1,1
+errp,"{'error potenti', 'errorrel potenti'}","{'errorrelated potential', 'error potentials'}",2,2
+es,"{'evolut strategi', 'electrograph seizur'}","{'electrographic seizure', 'evolution strategies'}",2,2
+esns,{'echo state network'},{'echo-state networks'},1,1
+ess,{'energi storag system'},{'energy storage system'},1,1
+est,"{'extend sub tree', 'eigenspac separ transform'}","{'eigenspace separation transform', 'extended sub tree'}",2,2
+estdms,{'evolv spatiotempor data machin'},{'evolving spatiotemporal data machines'},1,1
+et,{'evapotranspir'},{'evapotranspiration'},1,1
+etd,{'energi theft detector'},{'energy theft detector'},1,1
+etl,"{'extract transform and load', 'extract , transform , and load'}","{'extraction, transformation, and load', 'extract transform and load'}",2,2
+etm+,"{'remot sensor data , landsat enhanc themat mapper plus'}","{'remote sensor data, landsat enhanced thematic mapper plus'}",1,1
+eus,{'endoscop ultrasonographi'},{'endoscopic ultrasonography'},1,1
+ev,{'electr vehicl'},{'electric vehicle'},1,1
+evar,{'endovascular aneurysm repair'},{'endovascular aneurysm repair'},1,1
+ewom,{'electron word of mouth'},{'electronic word of mouth'},1,1
+ewt,{'empir wavelet transform'},{'empirical wavelet transform'},1,1
+exi,{'effici xml interchang'},{'efficient xml interchange'},1,1
+f-pca,{'fold princip compon analysi'},{'folded principal component analysis'},1,1
+fa,{'fals alarm'},{'false alarm'},1,1
+fab,{'wafer fabric'},{'wafer fabrication'},1,1
+facs,{'facial action code system'},{'facial action coding system'},1,1
+facts,{'flexibl ac transmiss system'},{'flexible ac transmission systems'},1,1
+fanova,{'function analysi of varianc'},{'functional analysis of variance'},1,1
+far,"{'fals alarm rate', 'fault reject rate ( frr ) and fault accept rate'}","{'fault rejection rate (frr) and fault acceptance rate', 'false alarm rate'}",2,2
+fault,{'diagnosi'},{'diagnosis'},1,1
+fbg,"{'fiber bragg grate sensor', 'fiber bragg grate'}","{'fiber bragg gratings', 'fiber bragg grating sensor'}",2,2
+fc,{'high order function connect'},{'high-order functional connectivity'},1,1
+fca,"{'formal concept analys', 'formal concept analysi'}","{'formal concept analysis', 'formal concept analyses'}",2,2
+fcbf,{'fast correl base filter'},{'fast correlation-based filter'},1,1
+fchm,{'frequent call hot method'},{'frequently called hot methods'},1,1
+fcl-net,{'fusion convolut long short term memori network'},{'fusion convolutional long short-term memory network'},1,1
+fcm,"{'fuzzi c mean', 'fuzzi c mean cluster'}","{'fuzzy c-means', 'fuzzy c-means clustering'}",2,2
+fcm-c,{'fuzzi c mean cluster'},{'fuzzy c-means clustering'},1,1
+fcml,{'fli capacitor multilevel'},{'flying capacitor multilevel'},1,1
+fcn,{'fulli convolut network'},"{'fully convolutional networks', 'fully convolutional network'}",2,2
+fcns,{'fulli convolut neural network'},{'fully convolutional neural networks'},1,1
+fd,{'fractal dimens'},{'fractal dimension'},1,1
+fdc,{'fault detect classif'},{'fault detect classification'},1,1
+fdd,{'fault detect and diagnosi'},{'fault detection and diagnosis'},1,1
+fdi,{'fals data inject'},{'false data injection'},1,1
+fds,{'fulli develop speckl'},{'fully developed speckle'},1,1
+fe,"{'featur extract', 'finit element', 'first episod'}","{'finite element', 'finite-element', 'feature extraction', 'first-episode'}",4,4
+fea,{'finit element analysi'},{'finite element analysis'},1,1
+features,{'molecular descriptor'},{'molecular descriptors'},1,1
+fecg,"{'foetal ecg', 'fetal electrocardiogram'}","{'foetal ecg', 'fetal electrocardiogram'}",2,2
+fem,{'finit element model'},{'finite element model'},1,1
+fer,{'facial express recognit'},{'facial expression recognition'},1,1
+fes,{'function electr stimul'},{'functional electrical stimulation'},1,1
+ffdm,{'full field digit mammographi'},{'full-field digital mammography'},1,1
+fff,{'fuse filament fabric'},{'fused filament fabrication'},1,1
+fgs,{'fast global smoother'},{'fast global smoother'},1,1
+fhr,{'fetal heart rate'},{'fetal heart rate'},1,1
+fig,{'fuzzi inform granul'},{'fuzzy information granules'},1,1
+fintech,{'financi technolog'},{'financial technology'},1,1
+fknn,{'fuzzi k nearest neighbor'},{'fuzzy k-nearest neighbor'},1,1
+fl,{'fuzzi logic'},{'fuzzy logic'},1,1
+fla,{'fuzzi learn algorithm'},{'fuzzy learning algorithm'},1,1
+flc,{'fuzzi logic control'},"{'fuzzy logic controller', 'fuzzy logic control'}",2,2
+flda,"{""fisher 's linear discrimin analysi""}","{""fisher's linear discriminant analysis""}",1,1
+fle-mcf,{'fast link exchang minimum cost forward'},{'fast link exchange minimum cost forwarding'},1,1
+flf,{'first order low pass filter'},{'first-order low-pass filter'},1,1
+flnn,{'function link neural network'},{'functional link neural network'},1,1
+flos,{'fraction lower order statist'},{'fractional lower-order statistics'},1,1
+flr,{'fuzzi lattic reason'},{'fuzzy lattice reasoning'},1,1
+fm,{'facil manag'},{'facility management'},1,1
+fmd,{'fast mode decis'},{'fast mode decision'},1,1
+fmg,{'forc myographi'},{'force myography'},1,1
+fmi,{'function mockup interfac'},{'functional mockup interface'},1,1
+fmri,"{'function magnet reson imag', 'function mri', 'rest state function magnet reson imag'}","{'functional magnetic resonance imaging', 'functional mri', 'resting-state functional magnetic resonance imaging'}",3,3
+fms,{'flexibl manufactur system'},{'flexible manufacturing system'},1,1
+fnir,{'function near infrar'},{'functional near infrared'},1,1
+fnirs,{'function near infrar spectroscopi'},{'functional near-infrared spectroscopy'},1,1
+fnn,"{'feed forward neural network', 'fuzzi neural network'}","{'fuzzy neural network', 'feed-forward neural network'}",2,2
+fnnrw,{'feedforward neural network with random weight'},{'feedforward neural networks with random weights'},1,1
+fnns,"{'fuzzi neural network', 'rank 1 feedforward neural network'}","{'fuzzy neural networks', 'rank-1 feedforward neural networks'}",2,2
+fnr,{'fals negat rate'},{'false negative rate'},1,1
+foc,{'field orient control'},{'field-oriented control'},1,1
+focc,{'fourth order correl coeffici'},{'fourth-order correlation coefficient'},1,1
+fodpso,{'fraction order darwinian particl swarm optim'},{'fractional order darwinian particle swarm optimization'},1,1
+fot,{'flock of tracker'},{'flock of tracker'},1,1
+fp,{'fals posit'},"{'false positive', 'false-positive'}",2,2
+fpar,"{'fraction of photo synthet activ radiat', 'fraction of photosynthet activ radiat'}","{'fraction of photosynthetically-active radiation', 'fraction of photo-synthetically active radiation'}",2,2
+fpga,"{'fieldprogramm gate array', 'field programm gate array'}","{'fieldprogrammable gate array', 'field programmable gate array', 'field programmable gate arrays', 'field-programmable gate array'}",4,4
+fppr,{'facial pose pre recognit'},{'facial pose pre-recognition'},1,1
+fpr,{'fals posit rate'},{'false positive rate'},1,1
+fpt,{'fuzzi pattern tree'},{'fuzzy pattern trees'},1,1
+fqrs,{'foetal qrs'},{'foetal qrs'},1,1
+fr,{'face recognit'},{'face recognition'},1,1
+frb,{'fuzzi rule base'},{'fuzzy-rule-based'},1,1
+frcn,{'full resolut convolut network'},{'full resolution convolutional network'},1,1
+frf,"{'fast random forest', 'frequenc respons function'}","{'frequency response function', 'fast random forest'}",2,2
+frft,{'fraction fourier transform'},{'fractional fourier transform'},1,1
+frpca,{'fuzzi robust princip compon analysi'},{'fuzzy robust principal component analysis'},1,1
+frs,{'fiber reinforc soil'},{'fiber-reinforced soil'},1,1
+fs,{'featur select'},{'feature selection'},1,1
+fs-lssvm,{'fix size lssvm'},{'fixed size lssvm'},1,1
+fsms,{'finit state machin'},{'finite-state machines'},1,1
+fsr,{'farm system research'},{'farming systems research'},1,1
+fsvm,{'fuzzi support vector machin'},{'fuzzy support vector machine'},1,1
+ftir,{'fourier transform infrar'},{'fourier transform infrared'},1,1
+fts,{'financi time seri'},{'financial time series'},1,1
+fv,{'fisher vector'},{'fisher vector'},1,1
+fwi,{'fire weather index'},{'fire weather index'},1,1
+fxa,{'factor xa'},{'factor xa'},1,1
+ga,{'genet algorithm'},"{'genetic algorithm', 'genetic algorithms'}",2,2
+ga-sa,{'hybrid genet algorithm simul anneal algorithm'},{'hybrid genetic algorithm-simulated annealing algorithm'},1,1
+gacs,{'geodes activ contour'},{'geodesic active contours'},1,1
+gan,{'generat adversari network'},"{'generative adversarial networks', 'generative adversarial network'}",2,2
+gan hemt,{'gallium nitrid highelectron mobil transistor'},{'gallium nitride highelectron-mobility transistors'},1,1
+gans,{'generat adversari network'},{'generative adversarial networks'},1,1
+gap-rbf,{'grow and prune rbf network'},{'growing and pruning rbf network'},1,1
+gas,{'genet algorithm'},{'genetic algorithms'},1,1
+gbdt,{'gradient boost decis tree'},{'gradient boosted decision trees'},1,1
+gbm,{'gradient boost machin'},{'gradient boosting machine'},1,1
+gbml,"{'genet base machin learn', 'fuzzi genet base machin learn'}","{'fuzzy genetics-based machine learning', 'genetics-based machine learning', 'genetic-based machine learning'}",3,3
+gbp,{'general belief propag'},{'generalized belief propagation'},1,1
+gbs,{'general birnbaum–saund'},{'generalized birnbaum–saunders'},1,1
+gc-ms,{'gas chromatographi mass spectromet'},{'gas chromatography mass spectrometer'},1,1
+gcc,{'general cross correl'},{'generalized cross correlation'},1,1
+gcforest,{'multi grain cascad forest'},{'multi-grained cascade forest'},1,1
+gdop,{'geometr dilut of precis'},{'geometric dilution of precision'},1,1
+gdpr,{'profil general data protect regul'},{'profiling general data protection regulation'},1,1
+gdv,{'gas discharg visual camera'},{'gas discharge visualization camera'},1,1
+general/other,{'reason under uncertainti : :uncertainti in ai'},{'reasoning under uncertainty::uncertainty in ai'},1,1
+ges,{'good environment status'},{'good environmental status'},1,1
+gf-3,{'gaofen 3'},{'gaofen-3'},1,1
+gfpt,{'gradient fix parallel temper'},{'gradient fixing parallel tempering'},1,1
+gfs,{'genet fuzzi system'},{'genetic fuzzy systems'},1,1
+ggd,{'general gaussian distribut'},{'generalized gaussian distribution'},1,1
+ggi,{'graph grammar induct'},{'graph grammar induction'},1,1
+gha,{'machin learn and general hebbian algorithm'},{'machine learning and generalized hebbian algorithm'},1,1
+gis,{'geograph inform system'},"{'geographical information systems', 'geographic information system'}",2,2
+gkp,{'glossokinet potenti'},{'glossokinetic potentials'},1,1
+glac,{'gradient local autocorrel'},{'gradient local autocorrelations'},1,1
+glcm,"{'gray level co occurr matrix', 'gray level cooccurr matrix'}","{'gray-level co-occurrence matrix', 'gray level cooccurrence matrix', 'gray level co-occurrence matrix'}",3,3
+glm,{'general linear model'},"{'generalized linear models', 'generalized linear model'}",2,2
+gmdh,{'group method of data handl'},{'group method of data handling'},1,1
+gmm,"{'gauss mixtur model', 'gaussian mixtur model'}","{'gauss mixture model', 'gaussian mixture models', 'gaussian mixture model', 'gaussian-mixture-model'}",4,4
+gmms,"{'index term gaussian mixtur model', 'gaussian mixtur model'}","{'index terms-gaussian mixture models', 'gaussian mixture models'}",2,2
+gmof,{'gaussian model of optic flow'},{'gaussian model of optical flow'},1,1
+gmpls,{'general multiprotocol label switch'},{'generalized multiprotocol label switching'},1,1
+gmrfs,{'gaussian markov random field'},{'gaussian markov random fields'},1,1
+gnss,{'global navig satellit system'},{'global navigation satellite system'},1,1
+gold,{'global initi for chronic obstruct lung diseas'},{'global initiative for chronic obstructive lung disease'},1,1
+gop,{'gradient orient pyramid'},{'gradient orientation pyramid'},1,1
+gp,"{'genet program', 'gaussian process'}","{'genetic programming', 'gaussian process', 'gaussian processes'}",3,3
+gpgpu,{'general purpos graphic process unit'},{'general purpose graphics processing unit'},1,1
+gpml,{'gaussian process for machin learn'},"{'gaussian process for machine learning', 'gaussian processes for machine learning'}",2,2
+gpr,"{'gaussian process regress', 'ground penetr radar'}","{'gaussian processes regression', 'ground penetrating radar', 'ground-penetrating radar', 'gaussian process regression'}",4,4
+gps,"{'gaussian process', 'global posit system'}","{'global positioning system', 'gaussian processes'}",2,2
+gpso,{'global best particl swarm optim'},{'global best particle swarm optimization'},1,1
+gpu,{'graphic process unit'},"{'graphics processing unit', 'graphics processing units'}",2,2
+gpus,{'graphic process unit'},{'graphics processing units'},1,1
+graphrbm,{'graph regular rbm'},{'graph regularized rbm'},1,1
+graphs,{'network theori'},{'network theory'},1,1
+grbfnn,{'granular radial basi function neural network'},{'granular radial basis function neural networks'},1,1
+grbm,{'gate restrict boltzmann machin'},{'gate restricted boltzmann machine'},1,1
+grc,"{'granular comput', 'machin learn granular comput', 'generat rate constraint'}","{'generation rate constraint', 'machine learning granular computing', 'granular computing'}",3,3
+grf,{'ground reaction forc'},{'ground reaction force'},1,1
+grnn,{'general regress neural network'},"{'generalized regression neural network', 'general regression neural network'}",2,2
+grnns,{'general regress neural network'},{'general regression neural networks'},1,1
+gru,{'gate recurr unit'},{'gated recurrent unit'},1,1
+gs,{'grid scheme'},{'grid scheme'},1,1
+gsa,{'gene select algorithm'},{'gene selection algorithm'},1,1
+gsm,{'global system mobil'},{'global system mobile'},1,1
+gso,{'general state observ'},{'generalized state observer'},1,1
+gsv,{'googl street view'},{'google street view'},1,1
+gt,{'gabor transform'},{'gabor transform'},1,1
+gtpcs,{'group templat pattern classifi'},{'group template pattern classifiers'},1,1
+gwo,{'gray wolf optim'},{'gray wolf optimization'},1,1
+gwt,{'gabor wigner transform'},{'gabor-wigner transform'},1,1
+h&e,{'hematoxylin and eosin stain'},{'hematoxylin and eosin staining'},1,1
+h-elm,{'hierarch extrem learn machin'},{'hierarchical extreme learning machine'},1,1
+haadf-stem,{'high angl annular dark field scan transmiss electron microscopi'},"{'high-angle annular dark field scanning transmission electron microscopy', 'high angle annular dark field scanning transmission electron microscopy'}",2,2
+hadr,{'humanitarian aid and disast relief'},{'humanitarian aid and disaster relief'},1,1
+hais,{'healthcar associ infect'},{'healthcare-associated infections'},1,1
+har,"{'human activ recognit', 'human action recognit'}","{'human action recognition', 'human activity recognition'}",2,2
+hbp,{'high order backpropag'},{'high-order backpropagation'},1,1
+hca,{'hierarch classifi algorithm'},{'hierarchical classifier algorithm'},1,1
+hcc,{'hepatocellular carcinoma'},{'hepatocellular carcinoma'},1,1
+hccr,"{'handwritten chines charact recognit', 'handwrit chines charact recognit'}","{'handwriting chinese character recognition', 'handwritten chinese character recognition'}",2,2
+hci,"{'human comput interact', 'human comput interfac', 'humancomput interfac'}","{'humancomputer interface', 'human computer interaction', 'human-computer interaction', 'human-computer interface'}",4,4
+hcs,{'heterogen cluster system'},{'heterogeneous cluster system'},1,1
+hcsae,"{'hierarch convolut spars autoencod', 'hierarch convolut spars auto encod'}","{'hierarchical convolutional sparse auto-encoder', 'hierarchical convolutional sparse autoencoder'}",2,2
+hd,{'full high definit'},{'full high-definition'},1,1
+hd-mtl,{'hierarch deep multi task learn'},{'hierarchical deep multi-task learning'},1,1
+hdls,{'highdens lipoprotein'},{'highdensity lipoproteins'},1,1
+hdn,{'hierarch diagnosi network'},{'hierarchical diagnosis network'},1,1
+hdsm,{'high dimension and spars matrix'},{'high dimensional and sparse matrix'},1,1
+heading 1,{'learn model introduct'},{'learning models introduction'},1,1
+heeact,{'higher educ evalu & accredit council of taiwan'},{'higher education evaluation & accreditation council of taiwan'},1,1
+hems,{'home energi manag system'},{'home energy management system'},1,1
+hesss,{'hybrid esss'},{'hybrid esss'},1,1
+hetnet,{'heterogen network'},{'heterogeneous network'},1,1
+hetnets,{'heterogen network'},{'heterogeneous networks'},1,1
+hev,{'hybrid electr vehicl'},{'hybrid electric vehicle'},1,1
+hevc,{'high effici video code'},{'high efficiency video coding'},1,1
+hf,"{'high frequenc', 'heart failur'}","{'heart failure', 'high-frequency'}",2,2
+hfc-pga,{'hierarch fair competit base parallel genet algorithm'},{'hierarchical fair competition-based parallel genetic algorithm'},1,1
+hfsw,{'high frequenc ( hf ) surfac wave'},{'high-frequency (hf) surface wave'},1,1
+hga,{'hybrid genet algorithm'},{'hybrid genetic algorithm'},1,1
+hgd,{'histogram of gradient diverg'},{'histograms of gradient divergence'},1,1
+hie,{'hypox ischem encephalopathi'},{'hypoxic-ischemic encephalopathy'},1,1
+hip,{'human interact proof'},{'human interactive proof'},1,1
+hl7,{'health level 7'},{'health level 7'},1,1
+hlid,{'histogram of local intens differ'},{'histogram of local intensity differences'},1,1
+hm,{'hybrid metrolog'},{'hybrid metrology'},1,1
+hmas,{'holon multi agent system'},{'holonic multi-agent system'},1,1
+hmi,"{'human machin interfac', 'human machin interact'}","{'human-machine interaction', 'human-machine interface'}",2,2
+hmi/hci,{'human machine/comput interfac'},{'human-machine/computer interface'},1,1
+hmm,"{'artifici neural network ( ann ) /hidden markov model', 'hidden markovian model', 'hidden markov model'}","{'artificial neural network (ann)/hidden markov model', 'hidden markov models', 'hidden markovian models', 'hidden markov model'}",4,4
+hmms,{'hidden markov model'},{'hidden markov models'},1,1
+hmpa,{'hot method predict accuraci'},{'hot method prediction accuracy'},1,1
+hnb,{'hidden naïv bay'},{'hidden naïve bayes'},1,1
+hne,{'human neutrophil elastas'},{'human neutrophil elastase'},1,1
+hnn,"{'hopfield neural network', 'hardwar neural network'}","{'hardware neural network', 'hopfield neural network'}",2,2
+hoda,{'higher order discrimin analysi'},{'higher order discriminant analysis'},1,1
+hog,{'histogram of orient gradient'},"{'histograms of oriented gradient', 'histograms of oriented gradients', 'histogram of oriented gradient', 'histogram of oriented gradients'}",4,4
+hos,{'higher order spectra'},{'higher order spectra'},1,1
+hosvd,{'higher order singular valu decomposit'},{'higher-order singular value decomposition'},1,1
+hpa,{'harmoni progress analyz'},{'harmony progression analyzer'},1,1
+hpc,{'high perform comput'},{'high-performance computing'},1,1
+hpca,{'hybrid princip compon analysi'},{'hybrid principal component analysis'},1,1
+hpr,{'human pose recoveri'},{'human pose recovery'},1,1
+hr,{'heart rate'},{'heart rate'},1,1
+hrf,{'hemodynam respons function'},{'hemodynamic response function'},1,1
+hri,"{'human robot interact', 'human–robot interact'}","{'human–robot interaction', 'human robot interaction', 'human-robot interaction'}",3,3
+hrv,"{'heart rate variabl', 'hard reproduc vulner'}","{'heart rate variability', 'hardly reproducible vulnerability'}",2,2
+hs,{'hyperspectr'},{'hyperspectral'},1,1
+hsi,"{'hyperspectr imageri', 'hyperspectr imag'}","{'hyperspectral imaging', 'hyperspectral image', 'hyperspectral imagery'}",3,3
+hsis,{'hyperspectr imag'},{'hyperspectral images'},1,1
+hsom,{'hierarch selforgan map'},{'hierarchical selforganizing maps'},1,1
+hsr,{'high spatial resolut'},{'high spatial resolution'},1,1
+hsrmi,{'high spatial resolut multispectr imageri'},{'high spatial resolution multispectral imagery'},1,1
+hsv,{'hue satur valu'},{'hue saturation value'},1,1
+ht,"{'random hough transform', 'hypothesi test'}","{'hypothesis testing', 'randomized hough transform'}",2,2
+htks,{'head toe knee shoulder'},{'head-toes-knees-shoulders'},1,1
+htm,{'hierarch tempor memori'},{'hierarchical temporal memory'},1,1
+htr,{'handwritten text recognit'},{'handwritten text recognition'},1,1
+hts,"{'highthroughput screen', 'high throughput screen'}","{'highthroughput screening', 'high-throughput screening'}",2,2
+https,{'hyper text transfer protocol over secur socket layer'},{'hyper text transfer protocol over secure socket layer'},1,1
+human skin,{'thermal damag tissu'},{'thermal damaged tissue'},1,1
+hums,{'health usag and monitor system'},{'health usage and monitoring systems'},1,1
+hvac,{'ventil and air condit'},{'ventilation and air-conditioning'},1,1
+hvs,{'human visual system'},{'human visual system'},1,1
+hw,{'holt winter'},{'holt-winters'},1,1
+hwan'gok,{'grain loan system'},{'grain loan system'},1,1
+hybrid,{'heterogen'},{'heterogeneous'},1,1
+i&f,{'integr and fire'},{'integrate-and-fire'},1,1
+i-cac,{'industri custom activ cycl'},{'industrial customer activity cycle'},1,1
+i-rnn,{'ident recurr neural network'},{'identity-recurrent neural network'},1,1
+ia,{'imag authent'},{'image authentication'},1,1
+ibd,{'inflammatori bowel diseas'},{'inflammatory bowel disease'},1,1
+ibe,{'intellig boost engin'},{'intelligence boosting engine'},1,1
+ibsm,{'index of bad sampl matrix'},{'index of bad samples matrix'},1,1
+ibvd,{'integr binocular vision detect'},{'integrative binocular vision detection'},1,1
+ic,"{'integr circuit', 'imag cluster'}","{'integrated circuit', 'image clustering'}",2,2
+ica,"{'independ compon analysi', 'imperialist competit algorithm'}","{'imperialist competitive algorithm', 'independent component analysis'}",2,2
+icbp,{'improv circular back propag neural network'},{'improved circular back-propagation neural network'},1,1
+icc,{'intra class correl coeffici'},{'intra-class correlation coefficient'},1,1
+icf,{'disabl and health'},{'disability and health'},1,1
+icks,{'inhibitori cytin knot'},{'inhibitory cytine knot'},1,1
+icm,{'indian classic music'},{'indian classical music'},1,1
+icp,{'intracrani pressur'},{'intracranial pressure'},1,1
+icr,{'ideal cognit radio'},{'ideal cognitive radio'},1,1
+ics,"{'counterfeit integr circuit', 'immun clonal strategi'}","{'immune clonal strategy', 'counterfeit integrated circuits'}",2,2
+icsi,{'integr custom satisfact index'},{'integrated customer satisfaction index'},1,1
+ict,{'inform and communic technolog'},"{'information and communication technology', 'information and communication technologies'}",2,2
+icu,{'intens care unit'},{'intensive care unit'},1,1
+id,"{'intrins dimension', 'intrus detect'}","{'intrusion detection', 'intrinsic dimensionality'}",2,2
+id3,"{'iter dichotomis 3', 'iter dichotom 3'}","{'iterative dichotomizer 3', 'iterative dichotomiser 3'}",2,2
+idc,{'independ compon analysi'},{'independent component analysis'},1,1
+ide,"{'charact recognit . cross compil and integr develop environ', 'cross compil and integr develop environ'}","{'character recognition. cross compiler and integrated development environment', 'cross compiler and integrated development environment'}",2,2
+idps,{'intrus detect and prevent system'},{'intrusion detection and prevention system'},1,1
+ids,{'intrus detect system'},"{'intrusion detection system', 'intrusion detection systems'}",2,2
+ie,"{'industri electron', 'inform extract'}","{'information extraction', 'industrial electronics'}",2,2
+iec,{'intern electrotechn commiss'},{'international electrotechnical commission'},1,1
+ieds,{'interict epileptiform discharg'},{'interictal epileptiform discharges'},1,1
+ieeg,"{'intracrani eeg', 'invas eeg'}","{'intracranial eeg', 'invasive eeg'}",2,2
+ielm,{'increment elm'},{'incremental elm'},1,1
+if,{'instantan frequenc'},{'instantaneous frequency'},1,1
+ifn/enit,"{""institut fur nachrichtentechnik/ecol national d'ingenieur de tuni""}","{""institut fur nachrichtentechnik/ecole nationale d'ingenieurs de tunis""}",1,1
+ig,{'inform granul'},{'information granulation'},1,1
+igbt,"{'isol gate bipolar transistor', 'insul gate bipolar transistor'}","{'insulated-gate bipolar transistor', 'isolated-gate bipolar transistor', 'insulated gate bipolar transistor'}",3,3
+igbts,{'insul gate bipolar transistor'},"{'insulated gate bipolar transistors', 'insulated-gate bipolar transistors'}",2,2
+igm,{'intern generat mechan'},{'internal generative mechanism'},1,1
+igrt,{'imag guid radiotherapi'},{'image-guided radiotherapy'},1,1
+igt,{'imag guid therapi'},{'image-guided therapy'},1,1
+ihh,{'isol human heart'},{'isolated human hearts'},1,1
+ihs,{'intens hue satur'},{'intensity-hue-saturation'},1,1
+iicss,{'internet industri control system'},{'internet industrial control systems'},1,1
+iie,{'intellig inhabit environ'},{'intelligent inhabited environments'},1,1
+iif,{'indirect immunofluoresc'},{'indirect immunofluorescence'},1,1
+iiot,"{'industri internet of thing', 'industri iot'}","{'industrial iot', 'industrial internet of things'}",2,2
+ild,{'interstiti lung diseas'},{'interstitial lung disease'},1,1
+ilp,{'induct logic program'},{'inductive logic programming'},1,1
+im,"{'intens measur', 'induct motor'}","{'induction motors', 'induction motor', 'intensity measure'}",3,3
+im/dd,{'intens modul direct detect'},{'intensity modulated direct detection'},1,1
+imf,{'instantan mean frequenc'},{'instantaneous mean frequency'},1,1
+imlbp,{'improv local binari pattern'},{'improved local binary pattern'},1,1
+impe,{'integr model of peak estim'},{'integral model of peak estimation'},1,1
+ims,{'induct motor'},{'induction motors'},1,1
+imu,{'inerti measur unit'},{'inertial measurement unit'},1,1
+imu/gps,{'inerti measur unit/glob posit system'},{'inertial measurement unit/global positioning system'},1,1
+imus,{'inerti measur unit'},{'inertial measurement units'},1,1
+in,{'hiv 1 integras'},{'hiv-1 integrase'},1,1
+inertial navigation system,{'machin learn base in'},{'machine learning based ins'},1,1
+ins,{'inerti navig system'},{'inertial navigation system'},1,1
+insar,{'interferometr synthet apertur radar'},{'interferometric synthetic aperture radar'},1,1
+instrument,{'current and voltag'},{'current and voltage'},1,1
+iot,"{'internet of thing', 'internet of everyth', 'big data in internet of thing'}","{'internet of everything', 'internet of things', 'big data in internet of things', 'internet-of-things'}",4,4
+iots,{'internet of thing'},{'internet of things'},1,1
+iou,{'intersect over union'},{'intersection over union'},1,1
+ip,{'imag process'},{'image processing'},1,1
+ipca,{'increment princip compon analysi'},{'incremental principal component analysis'},1,1
+ipd,"{""iter prison 's dilemma""}","{""iterated prisoner's dilemma""}",1,1
+ipmsm,{'interior perman magnet synchron machin'},{'interior permanent magnet synchronous machine'},1,1
+ipo,{'intra procedur optim'},{'intra-procedural optimizations'},1,1
+ips,{'intrus prevent system'},{'intrusion prevention system'},1,1
+ips2,{'industri product servic system'},{'industrial product-service system'},1,1
+iqa,{'imag qualiti assess'},{'image quality assessment'},1,1
+iqm,{'imag qualiti metric'},{'image quality metric'},1,1
+ir,"{'inform retriev', 'imag retarget'}","{'information retrieval', 'image retargeting'}",2,2
+iri,{'intern rough index'},{'international roughness index'},1,1
+irls,{'iter reweight least squar'},{'iterative reweighted least squares'},1,1
+irnn,{'ident recurr neural network'},{'identity-recurrent neural network'},1,1
+ise,{'istanbul stock exchang'},{'istanbul stock exchange'},1,1
+ism,{'implicit shape model'},{'implicit shape model'},1,1
+isodata,{'iter self organ data analysi'},{'iterative self-organizing data analysis'},1,1
+iss,{'individu stabl space'},{'individual stable space'},1,1
+isvpmcd,{'increment semi supervis variabl predict mode base class discrimin'},{'incremental semi-supervised variable predictive mode-based class discriminate'},1,1
+it,{'busi valu of inform technolog'},{'business value of information technology'},1,1
+it2fknn,{'interv type 2 fuzzi k nearest neighbor'},{'interval type-2 fuzzy k-nearest neighbors'},1,1
+it2fss,{'interv type 2 fuzzi set'},{'interval type-2 fuzzy sets'},1,1
+itd,{'intrins time scale decomposit'},{'intrinsic time-scale decomposition'},1,1
+itl,{'inform theoret learn'},{'information-theoretic learning'},1,1
+its,{'intellig transport system'},"{'intelligent transportation systems', 'intelligent transport systems', 'intelligent transportation system'}",3,3
+itss,{'intellig transport system'},{'intelligent transportation systems'},1,1
+itv,{'iter tensor vote'},{'iterative tensor voting'},1,1
+iui,{'intellig user interfac'},{'intelligent user interfaces'},1,1
+ivr,{'integr voltag regul'},{'integrated voltage regulator'},1,1
+ixlq,{'intermedi xml logic queri'},{'intermediate xml logical query'},1,1
+j48,{'decis tree'},{'decision tree'},1,1
+jade,{'java agent develop framework'},{'java agent development framework'},1,1
+jc,{'join count'},{'join-count'},1,1
+jdl,"{""joint director of laboratori '""}","{""joint directors of laboratories'""}",1,1
+jecam,{'joint experi of crop assess and monitor'},{'joint experiment of crop assessment and monitoring'},1,1
+jfa,{'joint factor analysi'},{'joint factor analysis'},1,1
+jit,{'just in time'},{'just-in-time'},1,1
+jnd,{'just notic differ'},{'just noticeable difference'},1,1
+jpeg,{'joint photograph expert group'},{'joint photographic experts group'},1,1
+jsp,{'java server page'},{'java server pages'},1,1
+jvm,{'java virtual machin'},{'java virtual machine'},1,1
+k,{'som'},{'som'},1,1
+k-nn,"{'k nearest neighbour', 'k nearest neighbor'}","{'k-nearest neighbors', 'k nearest neighbor', 'k-nearest neighbor', 'k-nearest neighbour'}",4,4
+k-svr,{'kernel function support vector regress'},{'kernel function support vector regression'},1,1
+kb,{'knowledg base'},{'knowledge base'},1,1
+kbqa,{'question answer over knowledg base'},{'question answering over knowledge base'},1,1
+kd,{'key hold down time'},{'key hold-down time'},1,1
+kdd,"{'knowledg discoveri in databas', 'knowledg discoveri from data', 'knowledg discoveri in data'}","{'knowledge discovery in data', 'knowledge discovery in databases', 'knowledge discovery from data'}",3,3
+kde,{'kernel densiti estim'},{'kernel density estimation'},1,1
+kdrp,{'keypoint densiti region propos'},{'keypoint density region proposal'},1,1
+key words,{'searchlight'},{'searchlight'},1,1
+kf,{'kalman filter'},{'kalman filter'},1,1
+kl,{'kullback leibler'},{'kullback-leibler'},1,1
+kld,{'kullback leibler diverg'},{'kullback-leibler divergence'},1,1
+klms,{'kernel least mean squar'},{'kernel least mean square'},1,1
+klr,{'kernel logist regress'},{'kernel logistic regression'},1,1
+km,"{'kernel method', 'k mean'}","{'kernel method', 'k-means'}",2,2
+knn,"{'k nearest neighbour', 'kappa   nearest neighbor', 'k nearest neighbor', '$ k $  nearest neighbor', 'k nearest neighbor classifi'}","{'k-nearest neighbor', 'k-nearest neighbours', 'k-nearest neighbour', 'kappa - nearest neighbor', 'k nearest neighbors', 'k-nearest neighbor classifier', '$k$ -nearest neighbors'}",7,7
+kpca,"{'kernel princip compon analysi', 'kernel base princip compon analysi'}","{'kernel-based principal component analysis', 'kernel principal component analysis'}",2,2
+kpcanet,{'kernel princip compon analysi net'},{'kernel principal component analysis net'},1,1
+kpi,{'key perform indic'},{'key performance indicator'},1,1
+kpis,{'key perform indic'},{'key performance indicators'},1,1
+kr,{'knowledg represent'},{'knowledge representation'},1,1
+krr,{'kernel ridg regress'},{'kernel ridge regression'},1,1
+kta,{'kernel target align'},{'kernel target alignment'},1,1
+ktd,{'kroneck tensor decomposit'},{'kronecker tensor decomposition'},1,1
+l-lda,{'label latent dirichlet alloc'},{'labeled latent dirichlet allocation'},1,1
+l-m,{'levenberg marquardt'},{'levenberg-marquardt'},1,1
+l2,{'second languag'},{'second language'},1,1
+l2r,{'learn to rank'},{'learning-to-rank'},1,1
+laa,{'left atrial appendag'},{'left atrial appendage'},1,1
+lai,{'leaf area index'},{'leaf area index'},1,1
+"lai, fvc, fapar",{'biophys paramet'},{'biophysical parameters'},1,1
+lamstar,{'larg memori storag retriev'},{'large memory storage retrieval'},1,1
+lars,{'least angl regress and lasso'},{'least angle regression and lasso'},1,1
+lasso,{'least absolut shrinkag and select oper'},{'least absolute shrinkage and selection operator'},1,1
+lb-cadd,{'ligand base comput aid drug discoveri'},{'ligand-based computer-aided drug discovery'},1,1
+lbd,"{'learn by demonstr', 'locat big data'}","{'location big data', 'learning by demonstration'}",2,2
+lbp,{'local binari pattern'},"{'local binary pattern', 'local binary patterns'}",2,2
+lbps,{'local binari pattern'},{'local binary patterns'},1,1
+lbs,{'locat base servic'},{'location-based service'},1,1
+lbw,{'low birth weight'},{'low birth weight'},1,1
+lc,{'label consist'},{'label consistency'},1,1
+lcc,{'local coordin code'},{'local coordinate coding'},1,1
+lcoe,{'levelis cost of energi'},{'levelised cost of energy'},1,1
+lcr,{'induct capacit resist'},{'inductance-capacitance-resistance'},1,1
+lcs,{'learn classifi system'},"{'learning classifier systems', 'learning classifier system'}",2,2
+lcsr,{'loop current step respons'},{'loop current step response'},1,1
+lcss,{'learn classifi system'},{'learning classifier systems'},1,1
+lct,{'local co train'},{'local co-training'},1,1
+ld,{'lane detect'},{'lane detection'},1,1
+lda,"{'latent dirichlet alloc', 'linear discrimin analysi'}","{'linear discriminant analysis', 'latent dirichlet allocation'}",2,2
+lda or fld,{'fisher linear discrimin analysi'},{'fisher linear discriminant analysis'},1,1
+ldir,{'low dose ioniz radiat'},{'low dose ionizing radiation'},1,1
+ldls,{'low densiti lipoprotein'},{'low-density lipoproteins'},1,1
+ldp,"{'local deriv pattern', 'local direct pattern'}","{'local directional pattern', 'local derivative pattern'}",2,2
+ldpc,{'low densiti pariti check'},{'low-density parity-check'},1,1
+learning,{'artifici intellig'},{'artificial intelligence'},1,1
+lep,{'local energi pattern'},{'local energy pattern'},1,1
+letor,{'learn to rank'},{'learning to rank'},1,1
+lfc,{'load frequenc control'},{'load frequency control'},1,1
+lfp,{'local field potenti'},{'local field potential'},1,1
+lfs,"{""lissaj ' figur""}","{""lissajous' figures""}",1,1
+lgc,{'the local and global consist'},{'the local and global consistency'},1,1
+lgs,{'local graph structur'},{'local graph structure'},1,1
+li,{'lymphocyt infiltr'},{'lymphocytic infiltration'},1,1
+libs,{'laser induc breakdown spectroscopi'},{'laser induced breakdown spectroscopy'},1,1
+lidar,{'light detect and rang'},{'light detection and ranging'},1,1
+lincrna,{'long intergen non code rna'},{'long intergenic non-coding rna'},1,1
+linear,{'machin learn'},{'machine learning'},1,1
+liwc,{'linguist inquiri and word count'},{'linguistic inquiry and word count'},1,1
+llm,{'least learn machin'},{'least learning machine'},1,1
+llr,{'local linear regress'},{'local linear regression'},1,1
+llvm,{'low level virtual machin'},{'low level virtual machine'},1,1
+lm,{'levenberg marquardt'},"{'levenberg marquardt', 'levenberg-marquardt'}",2,2
+lmep,{'local mesh pattern'},{'local mesh patterns'},1,1
+lms,"{'least mean squar', 'languag model'}","{'least mean squares', 'language models', 'least mean-square', 'language model'}",4,4
+lncrna,{'long non code rna'},{'long non-coding rna'},1,1
+loess,{'local weight regress'},{'locally weighted regression'},1,1
+lof,{'lack of fusion'},{'lack-of-fusion'},1,1
+loi,{'level of invent'},{'level of invention'},1,1
+loki,{'lightfram on sight keyspeci investig'},{'lightframe on-sight keyspecies investigation'},1,1
+loo,{'leav one out'},{'leave one out'},1,1
+loom,{'leav one out method'},{'leave-one-out method'},1,1
+lpi,{'low probabl of intercept'},{'low probability of intercept'},1,1
+lpp,{'local preserv project'},{'locality preserving projections'},1,1
+lpr,"{'licens plate recognit', 'licens plate reader'}","{'license plate reader', 'license plate recognition'}",2,2
+lpv,{'linear paramet vari'},{'linear-parameter-varying'},1,1
+lr,{'logist regress'},{'logistic regression'},1,1
+lrc,{'linear regress classif'},{'linear regression classification'},1,1
+lrf,{'local receptivefield'},{'local receptivefield'},1,1
+lri,{'local radius index'},{'local radius index'},1,1
+lrr,{'low rank represent'},"{'low-rank representation', 'low rank representation'}",2,2
+lru,{'least recent use'},{'least-recently-used'},1,1
+ls,{'least squar'},{'least squares'},1,1
+ls-svm,{'least squar support vector machin'},"{'least square-support vector machine', 'least-squares support vector machine', 'least squares support vector machines', 'least square support vector machines'}",4,4
+lsa,{'latent semant analysi'},{'latent semantic analysis'},1,1
+lsgan,{'least squar generat adversari network'},{'least squares generative adversarial network'},1,1
+lsh,{'local sensit hash'},{'locality sensitive hashing'},1,1
+lsi,{'latent semant index'},{'latent semantic indexing'},1,1
+lsm,{'level set motion'},{'level-sets motion'},1,1
+lsr,{'least squar regress'},{'least square regression'},1,1
+lssvm,"{'least squar support vector machin', 'leastsquar support vector machin'}","{'leastsquare support vector machine', 'least square support vector machine', 'least squares support vector machines'}",3,3
+lssvms,{'least squar support vector machin'},{'least squares support vector machines'},1,1
+lssvr,{'least squar support vector regress'},{'least squares support vector regression'},1,1
+lstm,"{'long short term memori network', 'long short term memori neural network', 'long short term memori', 'recurr neural network ( rnn ) long short term memori', 'long short term memori model'}","{'long short term memory', 'long short-term memory neural networks', 'long short-term memory', 'long-short-term-memory', 'long short-term memory neural network', 'long short term memory networks', 'long-short term memory', 'recurrent neural network (rnn) long short-term memory', 'long short-term memory model'}",9,9
+lstm2,"{'replstm , ranklstm'}","{'replstm, ranklstm'}",1,1
+lsvm,{'linear support vector machin'},{'linear support vector machine'},1,1
+ltd,{'long term depress'},{'long-term depression'},1,1
+lte-laa,{'licens assist access lte'},{'licensed assisted access lte'},1,1
+ltlf,{'long term load forecast'},{'long-term load forecasting'},1,1
+ltp,{'long term potenti'},{'long-term potentiation'},1,1
+lts-fnn,{'lts fuzzi neural network'},{'lts-fuzzy neural network'},1,1
+lu,{'land use'},{'land-use'},1,1
+lulc,{'land use/land cover'},{'land use/land cover'},1,1
+lvcsr,{'larg vocabulari continu speech recognit'},{'large vocabulary continuous speech recognition'},1,1
+lvq,{'learn vector quantize'},{'learning vector quantization'},1,1
+lvq-nn,{'learn vector quantize'},{'learning vector quantization'},1,1
+m2m,"{'machin 2 machin', 'machin to machin'}","{'machine-to-machine', 'machine to machine', 'machine 2 machine'}",3,3
+mac,{'medium access control'},{'medium access control'},1,1
+machine learning,{'artifici intellig'},{'artificial intelligence'},1,1
+madm,{'multipl attribut decis make'},{'multiple attribute decision making'},1,1
+mafia,{'maxim frequent itemset algorithm'},{'maximal frequent itemset algorithm'},1,1
+manet,{'mobil ad hoc network'},{'mobile ad hoc network'},1,1
+map,"{'multiattribut profil', 'maximum posteriori', 'maximum a posteriori probabl', 'bayesian maximum a posteriori'}","{'maximum a posteriori probability', 'maximum posteriori', 'multiattribute profile', 'bayesian maximum a posteriori'}",4,4
+mape,{'mean absolut percentag error'},{'mean absolute percentage error'},1,1
+mapped ls-svm,{'map least squar support vector machin'},{'mapped least-squares support vector machine'},1,1
+mars,{'multivari adapt regress spline'},{'multivariate adaptive regression splines'},1,1
+mas,{'multi agent system'},{'multi-agent system'},1,1
+mass,{'multiag system'},{'multiagent systems'},1,1
+maxent,{'maximum entropi'},{'maximum entropy'},1,1
+mban,{'medic bodi area network'},{'medical body area network'},1,1
+mbir,{'model base infrar reflectometri'},{'model based infrared reflectometry'},1,1
+mbmmr,"{'multiband , multimod radio'}","{'multiband, multimode radio'}",1,1
+mca,{'morpholog compon analysi'},{'morphological component analysis'},1,1
+mcaps,{'move cognit access point'},{'moving cognitive access points'},1,1
+mcca,"{'multiview canon correl analysi', 'multiway canon correl analysi'}","{'multiway canonical correlation analysis', 'multiview canonical correlation analysis'}",2,2
+mccv,{'mont carlo cross valid approach'},{'monte-carlo cross-validation approach'},1,1
+mcda,{'multi criteria decis analysi'},{'multi-criteria decision analysis'},1,1
+mcdm,"{'multicriteria decis make', 'multi criteria decis make', 'multipl criteria decis make'}","{'multi-criteria decision making', 'multicriteria decision-making', 'multiple criteria decision making'}",3,3
+mce,{'minimum classif error'},{'minimum classification error'},1,1
+mcfelm,{'meta cognit fuzzi elm'},{'meta-cognitive fuzzy elm'},1,1
+mci,{'mild cognit impair'},{'mild cognitive impairment'},1,1
+mcl,{'mutual coher learn'},{'mutual coherence learning'},1,1
+mcmc,{'markov chain mont carlo'},{'markov chain monte carlo'},1,1
+mcnn,{'multiscal convolut neural network'},{'multiscale convolutional neural network'},1,1
+mcs,"{'microcalcif', 'mont carlo simul', 'cluster microcalcif', 'tissu surround microcalcif', 'maximum common substructur', 'mobil crowdsens'}","{'maximum common substructure', 'tissue surrounding microcalcifications', 'monte-carlo simulation', 'clustered microcalcifications', 'microcalcifications', 'mobile crowdsensing'}",6,6
+mcsa,{'motor current signatur analysi'},{'motor current signature analysis'},1,1
+mcsae,{'modifi convolut denois autoencod'},{'modified convolutional denoising autoencoder'},1,1
+mcts,{'mont carlo tree search'},{'monte carlo tree search'},1,1
+md,"{'multidimension', 'mahalanobi distanc', 'mean diffus'}","{'mean diffusivity', 'multidimensional', 'mahalanobis distance'}",3,3
+mdd,{'major depress disord'},{'major depressive disorder'},1,1
+mdep,{'multi stage distribut expans plan'},{'multi-stage distribution expansion planning'},1,1
+mdl,{'minimum descript length'},{'minimum description length'},1,1
+mdo,{'multidisciplinari design optim'},{'multidisciplinary design optimization'},1,1
+mdp,{'markov decis process'},"{'markov decision process', 'markov decision processes'}",2,2
+mds,"{'medic diagnosi system', 'multidimension scale', 'micro doppler signatur', 'multidocu summar'}","{'multidocument summarization', 'multidimensional scaling', 'micro-doppler signature', 'medical diagnosis system'}",4,4
+me,{'maximum entropi'},{'maximum entropy'},1,1
+mea,{'multiel antenna'},{'multielement antenna'},1,1
+med,{'multimedia event detect'},{'multimedia event detection'},1,1
+memory leaks,{'softwar age'},{'software aging'},1,1
+mems,{'microelectromechan system'},{'microelectromechanical system'},1,1
+mes,{'myoelectr signal'},{'myoelectric signal'},1,1
+met,{'metabol equival of task'},{'metabolic equivalent of task'},1,1
+mfc,"{'macro fiber composit', 'magnet field comput'}","{'macro-fiber composite', 'magnetic field computation'}",2,2
+mfml,{'multifunct machin learn'},{'multifunctional machine learning'},1,1
+mfnn,{'maximum likelihood fuzzi neural network'},{'maximum likelihood fuzzy neural networks'},1,1
+mfr,{'modul format recognit'},{'modulation format recognition'},1,1
+mga,{'multiscal geometr analysi'},{'multiscale geometric analysis'},1,1
+mgc,{'market generat content'},{'marketer-generated content'},1,1
+mhealth,{'mobil health'},{'mobile health'},1,1
+mi,"{'motor imageri', 'mutual inform'}","{'motor imagery', 'mutual information'}",2,2
+mia,{'multivari imag analysi'},{'multivariate image analysis'},1,1
+mib,{'remot monitor ( rmon ) manag inform base'},{'remote monitoring (rmon) management information base'},1,1
+mici,{'maxim inform compress index'},{'maximal information compression index'},1,1
+micorenet,{'mix convolut and residu network'},{'mixed convolutional and residual network'},1,1
+miga,{'multi tier interact genet algorithm'},{'multi-tier interactive genetic algorithm'},1,1
+mil,{'multipl instanc learn'},"{'multiple-instance learning', 'multiple instance learning'}",2,2
+mimo,"{'massiv multipl input multipl output', 'multius multipl input multipl output', 'multipl input multipl output'}","{'multiuser multiple-input-multiple-output', 'massive multiple-input-multiple-output', 'multiple-input multiple-output'}",3,3
+mimo-ofdm,{'multipl input multipl output orthogon frequenc divis multiplex'},{'multiple-input multiple-output orthogonal frequency-division multiplexing'},1,1
+miot,{'medic internet of thing'},{'medical internet of things'},1,1
+mir,"{'multivari imag regress', 'music inform retriev'}","{'music information retrieval', 'multivariate image regression'}",2,2
+mix,{'multi level cell'},{'multi-level cell'},1,1
+mkl,"{'multipl kernel learn', 'text categor , multipl kernel learn'}","{'text categorization,multiple kernel learning', 'multiple kernel learning'}",2,2
+mkpc,{'multipl kernel base probabilist cluster'},{'multiple kernel based probabilistic clustering'},1,1
+ml,"{'maximum likelihood', 'neural network ( nn ) . machin learn', 'machin learn', 'artifici intellig and machin learn', 'multiobject machin learn', 'iter machin learn'}","{'maximum likelihood', 'iterative machine learning', 'artificial intelligence and machine learning', 'machine-learning', 'multiobjective machine learning', 'machine learning', 'neural network (nn). machine learning'}",7,7
+ml methods,{'machin learn method'},{'machine learning methods'},1,1
+ml&dm,{'machin learn and data mine'},{'machine learning and data mining'},1,1
+mlas,{'machin learn algorithm'},{'machine learning algorithms'},1,1
+mlc,"{'multi label classif', 'machin learn classifi'}","{'multi label classification', 'machine learning classifier'}",2,2
+mlcnn,{'multi layer convolut neural network'},{'multi-layer convolution neural network'},1,1
+mle,{'maximum likelihood estim'},{'maximum likelihood estimation'},1,1
+mlir,"{""multilingu inform retriev '""}","{""'multilingual information retrieval'""}",1,1
+mlp,"{'multilay perceptron', 'multi layer perceptron'}","{'multilayered perceptron', 'multi layered perceptron', 'multi layer perceptron', 'multilayer perceptron'}",4,4
+mlpn,{'multilay perceptron network'},{'multilayer perceptron network'},1,1
+mlpnn,{'multi layer perceptron neural network'},{'multi-layer perceptron neural network'},1,1
+mlps,{'multilay perceptron'},{'multilayer perceptrons'},1,1
+mlr,"{'multipl linear regress', 'multinomi logist regress'}","{'multiple linear regression', 'multinomial logistic regression'}",2,2
+mlras,{'machin learn regress algorithm'},{'machine learning regression algorithms'},1,1
+mls,{'mobil laser scan'},{'mobile laser scanning'},1,1
+mlsvd,{'multilinear singular valu decomposit'},{'multilinear singular value decomposition'},1,1
+mlt,{'machin learn techniqu'},{'machine learning technique'},1,1
+mmf,{'multi metric fusion'},{'multi-metric fusion'},1,1
+mml-nn,{'multivari machin learn with neural network'},{'multivariate machine learning with neural network'},1,1
+mmlspark,{'cntkonspark'},{'cntkonspark'},1,1
+mmsde,{'modifi multi scale symbol dynam entropi'},{'modified multi-scale symbolic dynamic entropy'},1,1
+mmse,"{'minimum mean squar error', 'mini mental state examin'}","{'minimum mean-square-errors', 'mini mental state examination'}",2,2
+mnist,{'modifi nation institut of standard and technolog databas'},{'modified national institute of standards and technology database'},1,1
+modis,"{'moder resolut imag spectroradiomet', 'moder resolut imag spectro radiomet'}","{'moderate resolution imaging spectroradiometer', 'moderate resolution imaging spectro-radiometer', 'moderate-resolution imaging spectroradiometer'}",3,3
+modm,{'multiobject decis make'},{'multiobjective decision making'},1,1
+moga,{'multiobject genet algorithm'},{'multiobjective genetic algorithm'},1,1
+moiwld,{'motion improv weber local descriptor'},{'motion improved weber local descriptor'},1,1
+mooc,{'massiv open onlin cours'},{'massive open online course'},1,1
+mop,{'measur of perform'},{'measures of performance'},1,1
+mopso,{'multi object particl swarm optim'},{'multi-objective particle swarm optimization'},1,1
+moraxella,{'branhamella'},{'branhamella'},1,1
+mos,{'mean opinion score'},{'mean opinion score'},1,1
+mosfet,{'metal oxid semiconductor field effect transistor'},{'metal-oxide-semiconductor field-effect transistor'},1,1
+mowld,{'motion weber local descriptor'},{'motion weber local descriptors'},1,1
+mp,{'morpholog profil'},{'morphological profile'},1,1
+mpc,"{'fast model predict control', 'model predict control'}","{'model predictive control', 'model-predictive control', 'fast model predictive control'}",3,3
+mpo,{'multiparamet optim'},{'multiparameter optimization'},1,1
+mprf,{'markov pixon random field'},{'markov pixon random field'},1,1
+mps,{'morpholog profil'},{'morphological profiles'},1,1
+mpso,{'modifi particl swarm optim'},{'modified particle swarm optimization'},1,1
+mr,"{'magnet reson', 'manifold rank', '7t magnet reson'}","{'manifold ranking', '7t magnetic resonance', 'magnetic resonance'}",3,3
+mra,"{'magnet reson angiographi', 'multiresolut analysi'}","{'multiresolution analysis', 'magnetic resonance angiography'}",2,2
+mran,{'minim resourc alloc network'},{'minimal resource allocation network'},1,1
+mrcps,{'movement relat cortic potenti'},{'movement-related cortical potentials'},1,1
+mrf,"{'small magneto rheolog fluid', 'markov random field'}","{'small magneto-rheological fluid', 'markov random field'}",2,2
+mrfs,{'spatial adapt markov random field'},{'spatially adaptive markov random fields'},1,1
+mri,{'magnet reson imag'},"{'magnetic resonance imaging', 'magnetic resonance image'}",2,2
+mrmr,"{'angl closur glaucoma ( acg ) , anterior segment optic coher tomographi ( as oct ) , unsupervis featur select , redund featur , laplacian score ( l score ) , minimum redund maximum relev', 'minimum redund maximum relev'}","{'minimum redundancy maximum relevancy', 'angle-closure glaucoma (acg), anterior segment optical coherence tomography (as-oct), unsupervised feature selection, redundant features, laplacian score (l-score), minimum redundancy maximum relevance'}",2,2
+mrs,{'magnet reson spectroscopi'},{'magnetic resonance spectroscopy'},1,1
+ms,"{'magnet skyrmion', 'motion salienc', 'margin sampl', 'multispectr'}","{'multispectral', 'margin sampling', 'magnetic skyrmion', 'motion saliency'}",4,4
+msa,{'modern standard arab'},{'modern standard arabic'},1,1
+mscn,{'multiscal convolut network'},{'multiscale convolutional network'},1,1
+msd,{'mahalanobi squar distanc'},{'mahalanobis squared distance'},1,1
+msetcca,{'multiset canon correl analysi'},{'multiset canonical correlation analysis'},1,1
+msl,{'mar scienc laboratori'},{'mars science laboratory'},1,1
+msm,{'modifi stack multicel'},{'modified stacked multicell'},1,1
+mst,{'minimum span tree'},{'minimum spanning tree'},1,1
+msvm-rfe,{'multipl support vector machin  recurs featur elimin'},{'multiple support vector machine- recursive feature elimination'},1,1
+mtc,{'minimum toe clearanc'},{'minimum toe clearance'},1,1
+mtg,{'meteosat third generat'},{'meteosat third generation'},1,1
+mtl,"{'multitask learn', 'multi task learn'}","{'multitask learning', 'multi-task learning'}",2,2
+mu,{'motor unit'},{'motor unit'},1,1
+muap,{'motor unit action potenti'},{'motor unit action potential'},1,1
+multimedia,{'image/video/mus'},{'image/video/music'},1,1
+music,{'multipl signal classif'},{'multiple signal classification'},1,1
+mutation matrix,{'or substitut or exchang matrix'},{'or substitution or exchange matrix'},1,1
+mv,{'weight major vote'},{'weighted majority voting'},1,1
+mvmt,{'multiview multitask'},{'multiview multitask'},1,1
+mvpa,"{'multivoxel pattern analysi', 'multi voxel pattern analysi'}","{'multi-voxel pattern analysis', 'multivoxel pattern analysis', 'multi voxel pattern analysis'}",3,3
+mvr,{'multivari linear regress model'},{'multivariate linear regression models'},1,1
+mvsldl,{'multi view sldl'},{'multi-view sldl'},1,1
+mwl,{'mental workload'},{'mental workload'},1,1
+naip,{'nation agricultur imageri program'},{'national agriculture imagery program'},1,1
+nat,{'nois awar train'},"{'noise-aware training', 'noise aware training'}",2,2
+nb,"{'naïv bayesian', 'naï¿½v bay', 'naïv bay', 'naiv bay'}","{'naïve bayesian', 'naïve bayes', 'naive bayes', 'naï¿½ve bayes'}",4,4
+nbbc-icbp-es,{'n bit binari code icbp ensembl system'},{'n-bits binary coding icbp ensemble system'},1,1
+nbi,{'nation bridg inventori'},{'national bridge inventory'},1,1
+nbm,{'naïv bay multinomin'},{'naïve bayes multinominal'},1,1
+nbs,{'nash bargain solut'},{'nash bargaining solution'},1,1
+nbti,{'negat bias temperatur instabl'},{'negative bias temperature instability'},1,1
+ncic,{'nodular cast iron with carbid'},{'nodular cast iron with carbides'},1,1
+nco,{'noncont chang oper'},{'noncontent-changing operation'},1,1
+ncp,"{'neighborhood chain predict', 'nonlinear complementar problem'}","{'nonlinear complementarity problem', 'neighborhood chain prediction'}",2,2
+ncr,{'non conform'},{'non-conformances'},1,1
+nde,{'nondestruct evalu'},{'nondestructive evaluation'},1,1
+ndn,{'name data network'},{'named data networking'},1,1
+ndr,{'nonlinear dimension reduct'},{'nonlinear dimensionality reduction'},1,1
+ndt,"{'non destruct test', 'nondestruct test'}","{'non destructive testing', 'nondestructive testing', 'non-destructive testing'}",3,3
+ndvi,{'normal differ veget index'},{'normalized difference vegetation index'},1,1
+ne,{'name entiti'},{'named entity'},1,1
+ner,{'name entiti recognit'},{'named entity recognition'},1,1
+nerd,{'neural respons diverg'},{'neural response divergence'},1,1
+neural network,{'knowledg base nn'},{'knowledge-based nn'},1,1
+neusoc,{'neuromorph system on a chip'},{'neuromorphic system-on-a-chip'},1,1
+nf-iqa,{'no refer imag qualiti assess'},{'no-reference image quality assessment'},1,1
+nfc,{'near field communic'},{'near-field communication'},1,1
+nfis,{'neuro fuzzi infer system'},{'neuro-fuzzy inference system'},1,1
+nfl,"{'no free lunch', 'no free lunch theorem'}","{'no free lunch', 'no free lunch theorems', 'no free lunch theorem'}",3,3
+nfm,{'neurofuzzi model'},{'neurofuzzy model'},1,1
+ngs,{'next generat sequenc'},"{'next generation sequencing', 'next-generation sequencing'}",2,2
+ngwi,{'next generat wireless internet'},{'next-generation wireless internet'},1,1
+nhpp,{'nonhomogen poisson process'},{'nonhomogeneous poisson process'},1,1
+nialm,{'nonintrus applianc load monitor'},{'nonintrusive appliance load monitoring'},1,1
+nids,{'network intrus detect system'},{'network intrusion detection system'},1,1
+nifm,{'non intrus fault monitor'},{'non-intrusive fault monitoring'},1,1
+nilm,"{'nonintrus load monitor', 'non intrus load monitor'}","{'nonintrusive load monitoring', 'non-intrusive load monitoring'}",2,2
+nirs,{'near infrar spectroscopi'},{'near-infrared spectroscopy'},1,1
+nlcd,{'nation land cover databas'},{'national land cover database'},1,1
+nlf,"{'nois level function', 'nonneg latent factor'}","{'nonnegative latent factor', 'noise level function'}",2,2
+nlos,{'non line of sight'},{'non-line of sight'},1,1
+nlp,{'natur languag process'},{'natural language processing'},1,1
+nlpn,{'nonlinear phase nois'},{'nonlinear phase noise'},1,1
+nmf,"{'non negat matrix factor', 'nonneg matrix factor', 'non negativematrix factor'}","{'non-negativematrix factorization', 'nonnegative matrix factorization', 'non-negative matrix factorization'}",3,3
+nmr,{'nuclear magnet reson'},{'nuclear magnetic resonance'},1,1
+nmt,{'neural machin translat'},{'neural machine translation'},1,1
+nn,"{'neural network', 'neural net', 'nearest neighbor'}","{'neural network', 'neural networks', 'neural net', 'nearest neighbor'}",4,4
+nn lm,{'neural network languag model'},{'neural network language model'},1,1
+nnlm,{'normal nonloc mean'},{'normalized nonlocal means'},1,1
+nnls,{'nonneg least squar'},{'nonnegative least square'},1,1
+nns,"{'neural network', 'artifici neural network'}","{'artificial neural networks', 'neural networks'}",2,2
+nnsae,{'nonneg spars autoencod'},{'nonnegative sparse autoencoder'},1,1
+nnwls,{'nonneg weight least squar'},{'nonnegative weighted least square'},1,1
+noc,"{'3 d network on chip', 'network on chip'}","{'3-d network-on-chip', 'network-on-chip', 'network on chip'}",3,3
+noma,{'non orthogon multipl access'},{'non-orthogonal multiple access'},1,1
+nosql,{'not onli sql'},{'not only sql'},1,1
+npc,"{'network predict control', 'non player charact'}","{'non player character', 'networked predictive control'}",2,2
+npmspmtw,{'non ident parallel machin schedul problem with multipl time window'},{'non-identical parallel machine scheduling problem with multiple time windows'},1,1
+npmv model,{'new predict mean vote model'},{'new predicted mean vote model'},1,1
+nps,{'normal profil'},{'normality profiles'},1,1
+npsvm,{'nonparallel support vector machin'},{'nonparallel support vector machines'},1,1
+npw,{'negat pressur wave'},{'negative pressure wave'},1,1
+nr,"{'blind/no refer', 'no refer', 'blind / no refer'}","{'blind/no-reference', 'no-reference', 'blind / no-reference'}",3,3
+nr-iqa,{'no refer iqa'},{'no-reference iqa'},1,1
+nrs,"{'nearest regular subspac', 'naturalist ride studi'}","{'naturalistic riding study', 'nearest regularized subspace'}",2,2
+ns-2,{'network simul 2'},{'network simulator 2'},1,1
+ns-3,{'network simul 3'},{'network simulator-3'},1,1
+nsct,{'nonsubsampl contourlet transform'},{'nonsubsampled contourlet transform'},1,1
+nsp,{'network servic provid'},{'network service provider'},1,1
+nss,{'natur scene statist'},{'natural scene statistics'},1,1
+nssnet,{'nonlinear spectral spatial network'},{'nonlinear spectral-spatial network'},1,1
+ntf,{'nonneg tensor factor'},{'nonnegative tensor factorization'},1,1
+ntl,"{'nontechn loss', 'non technic loss'}","{'nontechnical losses', 'non-technical losses'}",2,2
+nvm,"{'nonvolatil memori', 'non volatil memori'}","{'nonvolatile memory', 'non-volatile memory'}",2,2
+nvm or nvram,{'non volatil memori'},{'non-volatile memory'},1,1
+nw,{'needleman wunsch algorithm'},{'needleman-wunsch algorithm'},1,1
+o&m,{'oper and mainten'},{'operations and maintenance'},1,1
+o2o,{'onlin to offlin'},{'online-to-offline'},1,1
+oa,{'optim algorithm'},{'optimization algorithm'},1,1
+oas,{'ocular artifact'},{'ocular artifacts'},1,1
+obia,{'object base imag analysi'},{'object-based image analysis'},1,1
+obs,{'optic burst switch'},{'optical burst switching'},1,1
+oc-svm,{'one class support vector machin'},{'one-class support vector machine'},1,1
+ocd,{'optic critic dimens metrolog'},{'optical critical dimension metrology'},1,1
+ocr,"{'optic charact recognit', 'machin learn and optic charact recognit'}","{'optical character recognition', 'machine learning and optical character recognition'}",2,2
+ocsvm,"{'one class svm', 'onlin one class support vector machin'}","{'online one class support vector machine', 'one-class svm'}",2,2
+oct,{'optic coher tomographi'},{'optical coherence tomography'},1,1
+ocwt,{'over complet wavelet transform'},{'over-complete wavelet transform'},1,1
+od,"{'orthogon design', 'origin destin', 'optic disc'}","{'orthogonal design', 'origin-destination', 'optic disc'}",3,3
+odc,{'orthogon defect classif'},{'orthogonal defect classification'},1,1
+odd,{'optim driven decis'},{'optimization-driven decision'},1,1
+ofdm,{'multius multipl input multipl output ( mimo )  orthogon frequenc divis multiplex'},{'multiuser multiple input multiple output (mimo)-orthogonal frequency division multiplexing'},1,1
+ohof,{'orient histogram of optic flow'},{'orientation histogram of optical flow'},1,1
+olap,{'on line analyt process'},{'on-line analytical processing'},1,1
+oled,{'organ light emit diod'},{'organic light-emitting diode'},1,1
+olwsvr,{'onlin learn weight support vector regress'},{'online learning weighted support-vector regression'},1,1
+omb,{'oppos multi burner'},{'opposed multi-burner'},1,1
+opc,{'optic proxim correct'},{'optical proximity correction'},1,1
+opd,{'organ photodiod'},{'organic photodiode'},1,1
+opm,{'optic perform monitor'},{'optical performance monitoring'},1,1
+opms,{'optic pump magnetomet'},{'optical pump magnetometers'},1,1
+or,{'ordin regress'},{'ordinal regression'},1,1
+or e-bike,{'electr bike'},{'electric-bike'},1,1
+orc,{'optic rule check'},{'optical rule checking'},1,1
+os,"{'orient score', 'oper system', 'outlier separ'}","{'outlier separator', 'orientation score', 'operation system'}",3,3
+os-elm,{'onlin sequenti elm'},{'online sequential elm'},1,1
+os-fuzzy-elm,{'onlin sequenti fuzzi elm'},{'online sequential fuzzy elm'},1,1
+osa,{'obstruct sleep apnea'},{'obstructive sleep apnea'},1,1
+osah,{'obstruct sleep apnea and hypopnea'},{'obstructive sleep apnea and hypopnea'},1,1
+osd,{'optimum steepest descent'},{'optimum steepest descent'},1,1
+osgi,{'open servic gateway initi'},{'open service gateway initial'},1,1
+osm,"{'organiz sustain model', 'openstreetmap'}","{'organizational sustainability modeling', 'openstreetmap'}",2,2
+osn,{'onlin social network'},{'online social networks'},1,1
+osnr,{'optic signal to nois rate'},{'optical signal-to-noise rate'},1,1
+osqa,{'object sound qualiti assess'},{'objective sound quality assessment'},1,1
+oss,{'open sourc softwar'},{'open-source software'},1,1
+otu,{'oper taxonom unit'},{'operational taxonomic unit'},1,1
+otus,{'oper taxonom unit'},{'operational taxonomical units'},1,1
+ova,{'one versus all'},{'one-versus-all'},1,1
+ovo,{'one versus one'},{'one-versus-one'},1,1
+owa,{'open world assumpt'},{'open-world assumption'},1,1
+owcem,{'orthogon subspac project weight cem'},{'orthogonal subspace projection weighted cem'},1,1
+owl,{'web ontolog languag'},{'web ontology language'},1,1
+p-a,{'percept action'},{'perception-action'},1,1
+p-j,{'paulus jesk'},{'paulus-jeske'},1,1
+p2p,{'peer to peer'},{'peer-to-peer'},1,1
+pa,"{'power amplifi', 'doherti power amplifi', 'physic activ'}","{'doherty power amplifier', 'power amplifier', 'physical activity'}",3,3
+paa,{'piecewis aggreg approxim'},{'piecewise aggregate approximation'},1,1
+pac,"{'effici probabl approxim correct', 'probabl approxim correct'}","{'efficient probably approximately correct', 'probably approximately correct'}",2,2
+pae,{'partial area effect'},{'partial area effect'},1,1
+pamam,{'poli ( amido amin ) dendrim'},{'poly(amido amine) dendrimers'},1,1
+pan,{'panchromat'},{'panchromatic'},1,1
+parafac,"{'parallel factor analysi', 'parallel factor'}","{'parallel factors', 'parallel factor analysis'}",2,2
+partially,{'cloud comput'},{'cloud computing'},1,1
+pas,{'predict analyt'},{'predictive analytics'},1,1
+patman,{'pattern manufactur'},{'pattern manufacturability'},1,1
+pbd,"{'program by demonstr', 'robot program by demonstr'}","{'programming by demonstration', 'robot programming by demonstration'}",2,2
+pboost,{'prefixspan boost'},{'prefixspan boosting'},1,1
+pca,"{'princip compon analysi', 'kernel princip compon analysi', 'the princip compon analysi', 'principl compon analysi'}","{'the principal component analysis', 'principal components analysis', 'kernel principal component analysis', 'principle component analysis', 'principal component analysis'}",5,5
+pca/nlpca,{'featur extract'},{'feature extraction'},1,1
+pcanet,"{'princip compon analysi net', 'princip compon analysi network'}","{'principal components analysis network', 'principal component analysis net'}",2,2
+pcc,{'person chang classif'},{'personalized change classification'},1,1
+pcfe,{'pseudo colour featur extract'},{'pseudo colour features extraction'},1,1
+pcg,"{'phonocardiogram', 'phonocardiographi'}","{'phonocardiogram', 'phonocardiography'}",2,2
+pcm,"{'phase chang memori', 'pairwis comparison matrix'}","{'pairwise comparison matrix', 'phase change memory'}",2,2
+pcnns,{'puls coupl neural network'},{'pulse-coupled neural networks'},1,1
+pcp,{'physicochem properti'},{'physicochemical property'},1,1
+pcr,{'princip compon regress'},{'principal component regression'},1,1
+pcs,"{'person condit system', 'personalis condit system'}","{'personalised conditioning system', 'personalized conditioning system'}",2,2
+pd,"{'pharmacodynam', 'parkinson diseas', ""parkinson 's diseas"", 'partial discharg'}","{'partial discharge', ""parkinson's disease"", 'pharmacodynamics', 'parkinson disease'}",4,4
+pdb,{'protein data bank'},{'protein data bank'},1,1
+pde,{'partial differenti equat'},{'partial differential equation'},1,1
+pdes,{'partial differenti equat'},{'partial differential equations'},1,1
+pdf,{'probabl densiti function'},{'probability density function'},1,1
+pdm,{'predict mainten'},{'predictive maintenance'},1,1
+pdn,{'power deliveri network'},{'power delivery network'},1,1
+pdr,{'pedestrian dead reckon'},{'pedestrian dead reckoning'},1,1
+pem,"{'proton exchang membran', 'positron emiss mammographi'}","{'proton exchange membrane', 'positron emission mammography'}",2,2
+perclos,{'percentag of eyelid closur'},{'percentage of eyelid closure'},1,1
+pet,"{'positron emiss topographi', 'positron emiss tomographi'}","{'positron emission topography', 'positron emission tomography'}",2,2
+pf,{'particl filter'},{'particle filter'},1,1
+pfs,{'pythagorean fuzzi set'},{'pythagorean fuzzy set'},1,1
+pga,{'parallel genet algorithm'},{'parallel genetic algorithm'},1,1
+pgms,{'probabilist graphic model'},{'probabilistic graphical models'},1,1
+phev,{'plug in hybrid electr vehicl'},{'plug-in hybrid electric vehicle'},1,1
+phi,"{'patient health inform', 'protect health inform'}","{'protected health information', 'patient health information'}",2,2
+phm,{'prognost and health manag'},{'prognostics and health management'},1,1
+phs,{'pump hydro storag'},{'pumped hydro storage'},1,1
+pi,{'proport integr'},{'proportional-integral'},1,1
+pib pet,{'pittsburgh compound b positron emiss tomographi'},{'pittsburgh compound b positron emission tomography'},1,1
+pits,"{'photo induc transient spectroscopi', 'photoinduc transient spectroscopi'}","{'photoinduced transient spectroscopy', 'photo-induced transient spectroscopy'}",2,2
+pk,{'pharmacokinet'},{'pharmacokinetics'},1,1
+pls,"{'partial least squar model', 'partial least squar', 'partial least squar regress'}","{'partial least squares', 'partial least square regression', 'partial least square model', 'partial least square'}",4,4
+pm,"{'perman magnet', 'pm : predict metrolog'}","{'permanent magnet', 'pm: predictive metrology'}",2,2
+pmb,{'pattern manufactur band'},{'pattern manufacturability band'},1,1
+pmsm,{'perman magnet synchron motor'},{'permanent magnet synchronous motor'},1,1
+pmu,{'phasor measur unit'},{'phasor measurement unit'},1,1
+pmus,{'phasor measur unit'},{'phasor measurement units'},1,1
+pmv,{'predict mean vote'},{'predicted mean vote'},1,1
+pnn,{'probabilist neural network'},"{'probabilistic neural networks', 'probabilistic neural network'}",2,2
+pnns,{'probabilist neural network'},{'probabilistic neural networks'},1,1
+pns,{'petri net'},{'petri nets'},1,1
+poca,{'partial overlap channel assign'},{'partially overlapping channel assignment'},1,1
+pod,{'proper orthogon decomposit'},{'proper orthogonal decomposition'},1,1
+poi,{'point of interest'},"{'points of interest', 'point of interest'}",2,2
+polsar,{'polarimetr synthet apertur radar'},{'polarimetric synthetic aperture radar'},1,1
+pomp,{'power splice mapper'},{'powerful splice mapper'},1,1
+ports,{'comput'},{'computers'},1,1
+pos,"{'point of sale', 'part of speech'}","{'part-of-speech', 'point of sale', 'parts-of-speech'}",3,3
+ppe,{'person protect equip'},{'personal protective equipment'},1,1
+ppg,{'flexibl photoplethysmograph'},{'flexible photoplethysmograph'},1,1
+ppi,{'protein protein interact'},{'protein-protein interaction'},1,1
+ppm,"{'predict by partial map', 'point pattern match'}","{'point pattern matching', 'prediction by partial mapping'}",2,2
+ppsp,{'peak to peak sampl pattern'},{'peak-to-peak sampling pattern'},1,1
+pq,{'power qualiti'},"{'power quality', 'power-quality'}",2,2
+pqd,{'power qualiti disturb'},{'power-quality disturbance'},1,1
+pqds,{'power qualiti disturb'},{'power quality disturbances'},1,1
+pqp,{'parametr quadrat program'},{'parametric quadratic programming'},1,1
+pr,{'pattern recognit'},{'pattern recognition'},1,1
+prbfnn,{'polynomi radial basi function neural network'},{'polynomial radial basis function neural networks'},1,1
+prcc,{'papillari renal cell carcinoma'},{'papillary renal cell carcinoma'},1,1
+prnu,{'photo respons non uniform nois'},{'photo response non-uniformity noise'},1,1
+ps,"{'pattern search', 'paramet server', 'parkinsonian syndrom'}","{'parkinsonian syndrome', 'pattern search', 'parameter server'}",3,3
+psc,{'phase spectrum compens'},{'phase spectrum compensation'},1,1
+psd,{'power spectral densiti'},{'power spectral density'},1,1
+psfs,{'pixel shape featur set'},{'pixel shape feature set'},1,1
+psg,{'polysomnographi'},{'polysomnography'},1,1
+psls,{'pigment skin lesion'},{'pigmented skin lesions'},1,1
+pso,{'particl swarm optim'},{'particle swarm optimization'},1,1
+psp,"{'progress supranuclear palsi', 'predict student perform'}","{'progressive supranuclear palsy', 'predicting student performance'}",2,2
+psr,{'pyramid of spatial relaton'},{'pyramid of spatial relatons'},1,1
+pss,"{'product servic system', 'power signatur', 'power system stabil'}","{'product-service systems', 'power signatures', 'power system stabilizer'}",3,3
+ptm,{'post translat modif'},{'post-translational modification'},1,1
+ptsd,{'post traumat stress disord'},{'post-traumatic stress disorder'},1,1
+ptt,{'puls transit time'},{'pulse transit time'},1,1
+ptws,{'power two wheeler'},{'powered two wheelers'},1,1
+ptz,{'ip pantiltzoom'},{'ip pantiltzoom'},1,1
+puf,{'physic unclon function'},"{'physical unclonable function', 'physically unclonable function'}",2,2
+pufs,{'physic unclon function'},"{'physically unclonable functions', 'physical unclonable functions'}",2,2
+pv,"{'solar photovolta', 'process variat', 'photovolta'}","{'solar photovoltaics', 'photovoltaic', 'process variation', 'photovoltaics'}",4,4
+pvss,{'perivascular space'},{'perivascular spaces'},1,1
+qa,"{'qualiti assess', 'question answer'}","{'quality assessment', 'question answering'}",2,2
+qar,{'quick access record'},{'quick access recorder'},1,1
+qb,{'quickbird'},{'quickbird'},1,1
+qcls,{'quantum cascad laser'},{'quantum cascade lasers'},1,1
+qcm,{'quartz crystal microbal'},{'quartz crystal microbalance'},1,1
+qcqp,{'quadrat constrain quadrat program'},{'quadratically constrained quadratic programming'},1,1
+qct,{'quantum chemic topolog'},{'quantum chemical topology'},1,1
+qda,{'quadrat discrimin analysi'},{'quadratic discriminant analysis'},1,1
+qfd,{'qualiti function deploy'},{'quality function deployment'},1,1
+qft,{'quaternion fourier transform'},{'quaternion fourier transform'},1,1
+qgc,{'quadrat growth condit'},{'quadratic growth condition'},1,1
+ql,{'qualifi link analysi'},{'qualified link analysis'},1,1
+qmmt,{'quaternion fourier mellin transform'},{'quaternion fourier-mellin transform'},1,1
+qoe,{'qualiti of experi'},{'quality of experience'},1,1
+qolt,{'qualiti of life technolog'},{'quality of life technology'},1,1
+qos,"{'video qualiti of servic', 'qualiti of servic'}","{'video quality of service', 'quality-of-service', 'quality of service'}",3,3
+qp,{'quadrat program'},{'quadratic programming'},1,1
+qpso,{'quantum behav particl swarm optim'},{'quantum-behaved particle swarm optimization'},1,1
+qr,{'quick respons'},{'quick response'},1,1
+qrcp,{'qr factor with column pivot'},{'qr factorization with column pivoting'},1,1
+qsar,"{'quantit structur activ relationship', 'quantit structur activ relat'}","{'quantitative structure-activity relationship', 'quantitative structure activity relationship', 'quantitative structure activity relation'}",3,3
+qubit,{'quantum bit'},{'quantum bit'},1,1
+query,{'symptom'},{'symptoms'},1,1
+qus,{'quantit ultrasound'},{'quantitative ultrasound'},1,1
+r-c-q,{'rate complex quantizationmodel'},{'rate-complexity-quantizationmodeling'},1,1
+r-cnn,"{'region convolut neural network', 'region with cnn featur'}","{'regions with cnn features', 'region-convolution neural network'}",2,2
+r-fcn,{'region base fulli convolut network'},{'region-based fully convolutional networks'},1,1
+ra,"{'relat attribut', 'rheumatoid arthriti'}","{'rheumatoid arthritis', 'relative attributes'}",2,2
+rab,{'robust adapt beamform'},{'robust adaptive beamforming'},1,1
+radiology,{'pictur archiv and communic system ( pac'},{'picture archiving and communication system (pacs'},1,1
+rae,"{'recurs autoencod', 'recurs auto encod'}","{'recursive auto-encoder', 'recursive autoencoders'}",2,2
+raes,{'recurs auto encod'},{'recursive auto encoders'},1,1
+ran,{'resourc alloc network'},{'resource allocation network'},1,1
+ranekf,{'resourc alloc network via extend kalman filter'},{'resource allocation network via extended kalman filter'},1,1
+rank,{'standard'},{'standardized'},1,1
+rapi,{'revis air pollut index'},{'revised air pollution index'},1,1
+rat,{'remot access trojan'},{'remote access trojan'},1,1
+rbac,{'role base access control'},{'role-based access control'},1,1
+rbcm,{'rule base classif'},{'rule based classification'},1,1
+rbf,"{'radial basi function kernel', 'multiscal gaussian radial basi function', 'radial basi function'}","{'multiscale gaussian radial basis functions', 'radial basis function', 'radial basis function kernel'}",3,3
+rbfn,"{'radial basi function neural network', 'radial basi function network'}","{'radial basis function networks', 'radial basis function network', 'radial basis-function neural-network'}",3,3
+rbfnns,{'radial basi function neural network'},{'radial basis function neural networks'},1,1
+rbm,"{'restrict boltzmann machin', 'restrict boltzmann ma chine', 'restrict boltzman machin'}","{'restricted boltzmann machine', 'restricted boltzman machine', 'restricted boltzmann machines', 'restricted boltzmann ma chine'}",4,4
+rbms,{'restrict boltzmann machin'},{'restricted boltzmann machines'},1,1
+rc,{'reinforc concret'},{'reinforced concrete'},1,1
+rcat,{'rang split base on continu attribut transform'},{'range-splitting based on continuous attributes transform'},1,1
+rcc,"{'renal cell carcinoma', 'regular correntropi criterion'}","{'renal cell carcinoma', 'regularized correntropy criterion'}",2,2
+rcnn,{'region convolut neural network'},{'regional convolutional neural networks'},1,1
+rcs,{'reactiv carbonyl speci'},{'reactive carbonyl species'},1,1
+rd,{'rate distort'},{'rate-distortion'},1,1
+rdf,{'radial basi function'},{'radial basis functions'},1,1
+rdoc,{'research domain criteria'},{'research domain criteria'},1,1
+rdpcm,{'residu differenti puls code modul'},{'residual differential pulse code modulation'},1,1
+rdr,{'rippl down rule'},{'ripple-down rules'},1,1
+re,"{'reduc error', 'problem'}","{'problem', 'reduce-error'}",2,2
+re-id,{'person reidentif'},{'person reidentification'},1,1
+reasoning,{'singl and multi agent'},{'single and multi-agent'},1,1
+rendering,{'comput graphic'},{'computer graphics'},1,1
+reram,"{'resist random access memori', 'redox base resist switch memori'}","{'resistive random-access memory', 'redox-based resistive switching memory'}",2,2
+residential development,{'causal effect hous estat'},{'causal effect housing estate'},1,1
+rest,{'represent state transfer'},{'representational state transfer'},1,1
+rf,"{'random forest', 'relev feedback', 'radio frequenc'}","{'relevance feedback', 'random forests', 'radio frequency', 'random forest'}",4,4
+rfc,{'random forest classifi'},{'random forest classifier'},1,1
+rfe,{'recurs featur elimin'},{'recursive feature elimination'},1,1
+rfi,{'radio frequenc interfer'},{'radio frequency interference'},1,1
+rfid,{'radio frequenc identif'},"{'radio-frequency identification', 'radio frequency identification'}",2,2
+rfm,"{'recenc , frequenc and monetari'}","{'recency, frequency and monetary'}",1,1
+rfs,{'random forest'},{'random forests'},1,1
+rfwr,{'recept field weight regress'},{'receptive field weighted regression'},1,1
+rga,{'reduc form genet algorithm'},{'reduced-form genetic algorithm'},1,1
+ricnn,{'rotat invari cnn'},{'rotation-invariant cnn'},1,1
+ridge svm,{'ridg support vector machin'},{'ridge support vector machine'},1,1
+rie,{'reactiv ion etch'},{'reactive ion etching'},1,1
+rihog,{'rotat invari hog'},{'rotation-invariant hog'},1,1
+rimes,{'reconnaiss et index de donne manuscrit et de fac simil'},{'reconnaissance et indexation de donnees manuscrites et de fac similes'},1,1
+ris,{'radiolog inform system'},{'radiology information systems'},1,1
+rkhs,{'reproduc kernel hilbert space'},"{'reproducing kernel hilbert space', 'reproducing kernel hilbert spaces'}",2,2
+rks,{'random kitchen sink'},{'random kitchen sink'},1,1
+rl,{'reinforc learn'},"{'reinforce learning', 'reinforcement learning'}",2,2
+rle,{'rectifi linear encod'},{'rectified linear encoding'},1,1
+rlf,{'radon like featur'},{'radon-like features'},1,1
+rls,"{'reinforc learn system', 'recurs least squar', 'regular least squar'}","{'regularized least square', 'reinforcement learning system', 'recursive least squares'}",3,3
+rlse,{'recurs least squar estim'},{'recursive least-squares estimator'},1,1
+rm,{'requir manag'},{'requirements management'},1,1
+rmc,{'readi mix concret'},{'ready mixed concrete'},1,1
+rmsa,{'modul and spectrum assign'},{'modulation and spectrum assignment'},1,1
+rng,{'relat neighborhood graph'},{'relative neighborhood graph'},1,1
+rnn,"{'and deep learn : recurr neural network', 'deep learn mechan : recurr neural network', 'deep learn : recurr neural network', 'recurr neural network'}","{'deep learning: recurrent neural network', 'deep learning mechanisms: recurrent neural network', 'recurrent neural networks', 'and deep learning: recurrent neural network', 'recurrent neural network'}",5,5
+rnns,{'recurr neural network'},{'recurrent neural networks'},1,1
+ro,{'ring oscil'},{'ring oscillator'},1,1
+roc,"{'retinopathi onlin challeng', 'receiv oper curv', 'receiv oper characterist'}","{'receiver operator characteristics', 'receiver operator characteristic', 'receiver operating characteristic', 'receiver-operating characteristic', 'retinopathy online challenge', 'receiver-operator curve', 'receiver operating characteristics'}",7,7
+rocs,{'receiv oper characterist'},{'receiver operation characteristics'},1,1
+roi,{'region of interest'},{'region of interest'},1,1
+ros,{'reactiv oxygen speci'},{'reactive oxygen species'},1,1
+rp,"{'recur renc plot', 'readi potenti', 'random project'}","{'recur-rence plots', 'random projection', 'readiness potential'}",3,3
+rpnet,{'random patch network'},{'random patches network'},1,1
+rpv,{'rahman pinti verstraet'},{'rahman-pinty-verstraete'},1,1
+rr,{'reduc refer'},{'reduced-reference'},1,1
+rram,"{'resist switch memori', 'resist switch random access memori'}","{'resistive switching memory', 'resistive switching random access memory', 'resistive-switching random access memory', 'resistive-switching memory'}",4,4
+rre,{'revers reduc error'},{'reverse reduce-error'},1,1
+rrnn,{'recurr regress neural network'},{'recurrent regression neural network'},1,1
+rs,"{'veri high resolut ( vhr ) remot sens', 'remot sens', 'patholog respiratori sound', 'rough set', 'random subspac'}","{'remote sensing', 'very high resolution (vhr) remote sensing', 'rough set', 'pathological respiratory sound', 'random subspace'}",5,5
+rsm,{'respons surfac methodolog'},{'response surface methodology'},1,1
+rss,"{'receiv signal strength', 'recommend system'}","{'received signal strength', 'recommender systems'}",2,2
+rssi,{'receiv signal strength indic'},"{'received signal strength indication', 'received signal strength indicator'}",2,2
+rsss,{'receiv signal strength'},{'received signal strengths'},1,1
+rst,{'rhetor structur theori'},{'rhetorical structure theory'},1,1
+rsvp,{'rapid serial visual present'},{'rapid serial visual presentation'},1,1
+rt,{'radiat transfer'},{'radiative transfer'},1,1
+rt&tc,{'road type and traffic congest'},{'road type and traffic congestion'},1,1
+rta,{'reverber time awar'},{'reverberation-time-aware'},1,1
+rtc-a,{'residu total correl analysi'},{'residual total correlation analysis'},1,1
+rtds,{'real time digit simul'},"{'real-time digital simulation', 'real-time digital simulator'}",2,2
+rtlss,{'real time locat system'},{'real-time locating systems'},1,1
+rtn,{'random telegraph nois'},{'random telegraph noise'},1,1
+rtrbm,{'recurr tempor restrict boltzmann machin'},{'recurrent temporal restricted boltzmann machine'},1,1
+rts,{'radiant time seri'},{'radiant time series'},1,1
+rul,{'remain use life'},{'remaining useful life'},1,1
+rvfl,{'random vector function link'},{'random vector functional link'},1,1
+rvi,{'redund via insert'},{'redundant via insertion'},1,1
+rvm,{'reduc support vector machin'},{'reduced support vector machine'},1,1
+rvmc,{'relev vector machin classifi'},{'relevance vector machine classifier'},1,1
+rvms,{'relev vector machin'},{'relevance vector machines'},1,1
+rvr,{'relev vector regress'},{'relevance vector regression'},1,1
+rvtdnn,{'real valu time delay neural network'},{'real-valued time delay neural network'},1,1
+rwbs,{'repeat weight boost search'},{'repeating weighted boosting search'},1,1
+rwm,{'refer wind mast'},{'reference wind mast'},1,1
+s,{'rdf'},{'rdf'},1,1
+s-iot,{'social internet of thing'},{'social internet of things'},1,1
+s-lstm,{'stack long short term memori'},{'stacked-long short-term memory'},1,1
+s-sae,{'segment stack autoencod'},{'segmented stacked autoencoder'},1,1
+sa,{'sentiment analysi'},{'sentiment analysis'},1,1
+sae,"{'spars auto encod', 'spars autoencod', 'stack auto encod', 'stack autoencod'}","{'sparse autoencoder', 'sparse auto-encoder', 'stacked autoencoder', 'stacked auto-encoder'}",4,4
+saes,{'stack autoencod'},{'stacked autoencoders'},1,1
+sail,{'scatter by arbitrarili inclin leav'},{'scattering by arbitrarily inclined leaves'},1,1
+sal,"{'student ’ approach to learn', 'student approach to learn'}","{'student approach to learning', 'students’ approaches to learning'}",2,2
+salns,{'self adapt larg neighborhood search'},{'self-adaptive large neighborhood search'},1,1
+samoa,{'scalabl advanc massiv onlin analysi'},{'scalable advanced massive online analysis'},1,1
+sao,{'sampl adapt offset'},{'sample adaptive offset'},1,1
+sar,"{'syntheticapertur radar', 'social assist robot', 'synthet apertur radar'}","{'synthetical aperture radar', 'syntheticaperture radar', 'socially assistive robotics', 'synthetic aperture radar'}",4,4
+sart,{'simultan algebra reconstruct techniqu'},{'simultaneous algebraic reconstruction technique'},1,1
+sasa,{'solvent access surfac area'},{'solvent accessible surface area'},1,1
+sbir,{'sketch base imag retriev'},"{'sketch-based image retrieval', 'sketch based image retrieval'}",2,2
+sbp,{'subbottom profil'},{'subbottom profile'},1,1
+sbr,{'skill base rout'},{'skill based routing'},1,1
+sc,{'spars code'},{'sparse coding'},1,1
+sc-svm,{'cost sensit support vector machin'},{'cost-sensitive support vector machine'},1,1
+sca,{'sudden cardiac arrest'},{'sudden cardiac arrest'},1,1
+scada,{'supervisori control and data acquisit'},{'supervisory control and data acquisition'},1,1
+scaffolding systems,{'temporari facil'},{'temporary facilities'},1,1
+scc,"{'short circuit capac', 'screen content code'}","{'screen content coding', 'short circuit capacity'}",2,2
+scf,"{'spars code fusion', 'suppli chain financ'}","{'sparse codes fusion', 'supply chain finance'}",2,2
+scg,{'scale conjug gradient'},{'scaled conjugate gradient'},1,1
+sci,{'sourc camera identif'},{'source camera identification'},1,1
+scica-rls,{'spatial constraint independ compon analysi base recurs least squar'},{'spatial constraint independent component analysis based recursive least squares'},1,1
+scis,{'screen content imag'},{'screen content images'},1,1
+scm,{'storag class memori'},{'storage class memory'},1,1
+scma,{'spars code multipl access'},{'sparse code multiple access'},1,1
+scrf,{'spars crf'},{'sparse crf'},1,1
+scrm,{'suppli chain risk manag'},{'supply chain risk management'},1,1
+scss,{'singl channel sourc separ'},{'single-channel source separation'},1,1
+scuc,{'secur constraint unit commit'},{'security constraint unit commitment'},1,1
+sd,{'semant differenti'},{'semantic differential'},1,1
+sd-oct,{'spectral domain oct'},{'spectral domain oct'},1,1
+sda,{'stack denois autoencod'},"{'stacked denoising autoencoder', 'stacked denoising autoencoders'}",2,2
+sdae,"{'stack denois auto encod', 'stack denois autoencod'}","{'stacked denoising auto-encoder', 'stacked denoising autoencoder'}",2,2
+sdhw,{'solar domest hot water'},{'solar domestic hot water'},1,1
+sdi,{'select dissemin of inform'},{'selective dissemination of information'},1,1
+sdn,{'softwar defin network'},"{'software defined network', 'software defined networking', 'software defined networks'}",3,3
+sdns,{'softwar defin network'},{'software-defined networks'},1,1
+sdp,"{'softwar defect predict', 'semi definit program'}","{'software defect prediction', 'semi-definite programming'}",2,2
+sdr,{'softwar defin radio'},{'software defined radio'},1,1
+sds,{'spoken dialogu system'},{'spoken dialogue system'},1,1
+sdss,{'spatial decis support system'},{'spatial decision support system'},1,1
+se,{'speech enhanc'},{'speech enhancement'},1,1
+seabass,"{'dicentrarchus labrax , l .'}","{'dicentrarchus labrax, l.'}",1,1
+seed,{'centroid'},{'centroid'},1,1
+semi-,{'semanticsen'},{'semanticsenabled'},1,1
+sfa,{'subcutan fat area'},{'subcutaneous fat area'},1,1
+sffs,{'sequenti float forward select'},{'sequential floating forward selection'},1,1
+sfm,{'structur from motion'},{'structure from motion'},1,1
+sfs,"{'sequenti forward featur select algorithm', 'sequenti forward search'}","{'sequential forward search', 'sequential forward feature selection algorithm'}",2,2
+sgbp,{'stochast gradient descent back propag'},{'stochastic gradient descent back-propagation'},1,1
+sgd,"{'shape geometr descriptor', 'stochast gradient descent'}","{'stochastic gradient descent', 'shape geometric descriptor'}",2,2
+sgl,{'spars group lasso'},{'sparse group lasso'},1,1
+sgwt,{'second generat wavelet transform'},{'second generation wavelet transform'},1,1
+shems,{'smart home energi manag system'},{'smart home energy management system'},1,1
+shids,{'spars'},{'sparse'},1,1
+shm,{'structur health monitor'},"{'structural health monitoring', 'structure health monitoring'}",2,2
+shw,{'season holt winter'},{'seasonal holt-winters'},1,1
+si,"{'side inform', 'signal integr'}","{'signal integrity', 'side information'}",2,2
+sif,{'solar induc chlorophyl fluoresc'},{'solar-induced chlorophyll fluorescence'},1,1
+sift,{'scale invari featur transform'},"{'scale-invariant feature transform', 'scale invariant feature transform'}",2,2
+signal,{'quantize'},{'quantization'},1,1
+silus,{'sigmoid weight linear unit'},{'sigmoid-weighted linear units'},1,1
+simd,{'singl instruct multipl data'},{'single instruction multiple data'},1,1
+siot,"{'social iot', 'social internet of thing'}","{'social internet of things', 'social iot'}",2,2
+sjs,{'splice junction'},{'splice junctions'},1,1
+sk,{'streptokinas'},{'streptokinase'},1,1
+sl,{'synchron likelihood'},{'synchronization likelihood'},1,1
+sla,{'servic level agreement'},{'service-level agreement'},1,1
+slam,"{'simultan local and map', 'visual simultan local and map'}","{'visual simultaneous localization and mapping', 'simultaneous localization and mapping'}",2,2
+sldl,{'semi coupl low rank discrimin dictionari learn'},{'semi-coupled low-rank discriminant dictionary learning'},1,1
+sle,{'system lupus erythematosus'},{'systemic lupus erythematosus'},1,1
+slfg,{'stochast linear formal grammar'},{'stochastic linear formal grammar'},1,1
+slfns,{'singl hidden layer feedforward neural network'},{'single-hidden layer feedforward neural networks'},1,1
+slgs,{'symmetr local graph structur'},{'symmetric local graph structure'},1,1
+slico,{'superpixel'},{'superpixel'},1,1
+slm,{'select laser melt'},"{'selective laser melting', 'selective laser melt'}",2,2
+slp,{'sensor ( loop detector ) locat problem'},{'sensor (loop detector) location problem'},1,1
+slr,{'systemat literatur review'},{'systematic literature review'},1,1
+slu,{'spoken languag understand'},{'spoken language understanding'},1,1
+sm,{'soil moistur'},{'soil moisture'},1,1
+smd,"{'submanifold decomposit', 'smart meter data'}","{'submanifold decomposition', 'smart meter data'}",2,2
+smes,{'small and medium size enterpris'},{'small and medium-sized enterprises'},1,1
+smf,{'success morpholog transform filter'},{'successive morphologic transform filtering'},1,1
+sml,{'supervis machin learn'},{'supervised machine learning'},1,1
+smlr,{'spars multinomi logist regress'},{'sparse multinomial logistic regression'},1,1
+smn,{'scene match navig'},{'scene matching navigation'},1,1
+smo,"{'malwar trojan hors detect autom analysi sequenti minim optim', 'sequenti minim optim'}","{'sequential minimal optimization', 'malwares trojan horse detection automated analysis sequential minimal optimization'}",2,2
+smos,{'soil moistur and ocean salin'},{'soil moisture and ocean salinity'},1,1
+smote,{'synthet minor over sampl techniqu'},{'synthetic minority over-sampling technique'},1,1
+smr,{'sensorimotor rhythm'},{'sensorimotor rhythms'},1,1
+smri,{'structur mri'},{'structural mri'},1,1
+sms,{'short messag servic'},{'short message service'},1,1
+smt,{'synchron measur technolog'},{'synchronized measurement technology'},1,1
+smv,{'support vector machin'},{'support vector machine'},1,1
+smvq,{'side match vector quantize'},{'side match vector quantization'},1,1
+snn,{'spike neural network'},{'spiking neural network'},1,1
+snns,{'spike neural network'},{'spiking neural networks'},1,1
+snp,{'singl nucleotid polymorph'},{'single nucleotide polymorphism'},1,1
+snps,{'singl nucleotid polymorph'},{'single nucleotide polymorphisms'},1,1
+snr,"{'a priori signal to nois ratio', 'signal to nois ratio'}","{'a priori signal-to-noise ratio', 'signal-to-noise ratio'}",2,2
+sns,{'social network servic'},{'social networking service'},1,1
+sobi,{'second order blind identif'},{'second-order blind identification'},1,1
+soc,"{'system on a chip', 'system on chip', 'state of charg', 'batteri state of charg'}","{'state-of-charge', 'state of charge', 'system on chip', 'system-on-chip', 'system-on-a-chip', 'battery state of charge'}",6,6
+socp,{'second order cone program'},{'second-order cone programming'},1,1
+soeks,{'set of experi knowledg'},{'set of experience knowledge'},1,1
+sofc,{'self organ fuzzi control'},{'self-organizing fuzzy controller'},1,1
+soh,{'state of health'},"{'state-of-health', 'state of health'}",2,2
+soi,{'silicon on insul'},{'silicon on insulator'},1,1
+soinn,{'self organ increment neural network'},{'self-organizing incremental neural network'},1,1
+som,{'self organ map'},"{'self-organizing maps', 'self organization map', 'self-organizing map', 'self organizing map'}",4,4
+son,{'self organ network'},"{'self-organizing network', 'self-organizing networks'}",2,2
+sonar,{'sound navig and rang'},{'sound navigation and ranging'},1,1
+sosvm,{'structur output support vector machin'},{'structured output support vector machine'},1,1
+sp,{'spatial pyramid'},{'spatial pyramid'},1,1
+sparse-mvtc,{'spars multiview task central'},{'sparse multiview task-centralized'},1,1
+spect,{'singl photon emiss comput tomographi'},{'single photon emission computed tomography'},1,1
+spei,{'standard precipit and evapotranspir index'},{'standardized precipitation and evapotranspiration index'},1,1
+spine,{'signal process in node environ'},{'signal processing in node environment'},1,1
+spit,{'spam over internet telephoni'},{'spam over internet telephony'},1,1
+splr,{'spars logist regress'},{'sparse logistic regression'},1,1
+spm,{'spatial pyramid match'},{'spatial pyramid matching'},1,1
+spn,{'sensor pattern nois'},{'sensor pattern noise'},1,1
+spns,{'sum product network'},{'sum-product networks'},1,1
+spo 2,{'satur of peripher oxygen'},{'saturation of peripheral oxygen'},1,1
+spom,{'sign poisson map'},{'signed poisson mapping'},1,1
+spot,"{""satellit pour l'observ de la terr""}","{""satellite pour l'observation de la terre""}",1,1
+spp,{'spatial pyramid pool'},{'spatial pyramid pooling'},1,1
+sps,"{'support pattern', 'superpixel segment'}","{'superpixel segmentation', 'support patterns'}",2,2
+spwvd,{'smooth pseudo wigner vill distribut'},{'smoothed pseudo wigner-ville distribution'},1,1
+sqi,{'signal qualiti index'},{'signal quality index'},1,1
+sr,"{'imag super resolut', 'sinus rhythm', 'super resolut restor', 'super resolut', 'project spars represent', 'singl imag super resolut', 'spars represent', 'face super resolut'}","{'face super-resolution', 'single image super-resolution', 'super resolution', 'super-resolution', 'sinus rhythm', 'image super-resolution', 'sparse representation', 'super resolution restoration', 'projective sparse representation'}",9,9
+sraf,{'sub resolut assist featur'},{'sub-resolution assist feature'},1,1
+sram,{'static random access memori'},{'static random access memory'},1,1
+src,"{'spars represent base classifi', 'spars represent base classif'}","{'sparse representation based classification', 'sparse representation-based classifier'}",2,2
+srcs,{'stepwis regress correl select'},{'stepwise regression-correlation selection'},1,1
+srf,{'structur random forest'},{'structured random forest'},1,1
+srgm,{'softwar reliabl growth model'},{'software reliability growth model'},1,1
+srkda,{'spectral regress kernel discrimin analysi'},{'spectral regression kernel discriminant analysis'},1,1
+srm,"{'structur risk minim', 'statist region merg'}","{'statistical region merging', 'structural risk minimization'}",2,2
+srn,{'simultan recurr network'},{'simultaneous recurrent network'},1,1
+srois,{'segment region of interest'},{'segmented regions-of-interest'},1,1
+ssae,"{'stack spars autoencod', 'stack spars auto encod', 'stack spars autoencod network'}","{'stacked sparse autoencoder', 'stacked sparse autoencoder network', 'stacked sparse auto-encoder'}",3,3
+ssc,"{'spars subspac cluster', 'semi supervis cluster'}","{'semi-supervised clustering', 'sparse subspace clustering'}",2,2
+ssdr,{'semi supervis dimension reduct'},{'semi-supervised dimensionality reduction'},1,1
+ssim,"{'structur similar', 'simultan sensor integr and model', 'structur similar index'}","{'simultaneous sensor integration and modelling', 'structural similarity', 'structural similarity index'}",3,3
+ssl,"{'sound sourc local', 'semisupervis learn', 'semi supervis learn', 'semi superis learn'}","{'semi-supervised learning', 'sound source localization', 'semi-superised learning', 'semisupervised learning'}",4,4
+ssmo,{'simplifi sequenti minim optim'},{'simplified sequential minimal optimization'},1,1
+ssr,{'share spars regress'},{'shared sparse regression'},1,1
+ssrn,{'spectral spatial residu network'},{'spectral-spatial residual network'},1,1
+sss,{'small sampl size'},"{'small-sample-size', 'small sample size'}",2,2
+sst,{'silent sound technolog'},{'silent sound technology'},1,1
+ssvep,{'steadi state visual evok potenti'},{'steady-state visual evoked potential'},1,1
+ssvm,{'structur support vector machin'},{'structural support vector machine'},1,1
+st,"{'s transform', 'modifi s transform'}","{'modified s-transform', 's-transform'}",2,2
+stbd,{'spatiotempor brain data'},{'spatiotemporal brain data'},1,1
+stc,{'substitut then comparison'},{'substitution-then-comparison'},1,1
+stdp,"{'spiketim depend plastic', 'spike time depend plastic', 'event driven spike time depend plastic'}","{'event-driven spike timing dependent plasticity', 'spiketiming-dependent plasticity', 'spike-timing dependent plasticity', 'spike-timing-dependent plasticity'}",4,4
+stft,{'short time fourier transform'},{'short-time fourier transform'},1,1
+stips,{'4 d spatio tempor interest point'},{'4-d spatio-temporal interest points'},1,1
+stlf,{'short term load forecast'},{'short-term load forecasting'},1,1
+stm,{'support tensor machin'},{'support tensor machine'},1,1
+stps,{'sequenti tri disulfid peptid'},{'sequential tri-disulfide peptides'},1,1
+sts,{'semant textual similar'},{'semantic textual similarity'},1,1
+stsa,{'minimum mean squar error ( mmse ) short time spectral amplitud'},{'minimum mean-square error (mmse) short-time spectral amplitude'},1,1
+stt-ram,{'spin toqu transfer ram'},{'spin toque transfer ram'},1,1
+suas,{'small unman aircraft system'},{'small unmanned aircraft system'},1,1
+subspace selection,{'or dimension reduct'},{'or dimensionality reduction'},1,1
+sumo,{'simul of urban mobil'},{'simulator of urban mobility'},1,1
+supervised,{'develop in field of'},{'development in field of'},1,1
+surf,{'speed up robust featur'},{'speeded up robust features'},1,1
+sv,{'flexibl support vector'},{'flexible support vector'},1,1
+svc,"{'support vector cluster', 'scalabl video code'}","{'scalable video coding', 'support vector clustering'}",2,2
+svcs,{'support vector classifi'},{'support vector classifiers'},1,1
+svd,"{'singular valu decomposit', 'singular vector decomposit'}","{'singular vector decomposition', 'singular value decomposition'}",2,2
+svdd,{'support vector data descript'},{'support vector data description'},1,1
+sve,{'state vector estim'},{'state vector estimator'},1,1
+svf,{'sky view factor'},{'sky view factor'},1,1
+svm,"{'support vector machin', 'kernel support vector machin', 'multi class support vector machin', 'support vectormachin', 'semi supervis support vector machin', 'compact support vector machin', 'f ratio and support vector machin', 'the support vector machin'}","{'compact support vector machine', 'support vector machines', 'support vectormachine', 'supporter vector machine', 'semi-supervised support vector machine', 'supported vector machine', 'support vector machine', 'the support vector machine', 'kernel support vector machine', 'support-vector-machine', 'support-vector machine', 'multi-class support vector machines', 'f-ratio and support vector machine'}",13,13
+svm-rfe,{'support vector machin recurs featur elimin'},{'support vector machine-recursive feature elimination'},1,1
+svms,"{'support vector machin', 'distanc base learn method and nearest neighbor approach and kernel method   support vector machin', 'multiclass support vector machin', 'machin learn'}","{'support vector machines', 'support-vector machines', 'multiclass support vector machines', 'machine learning', 'distance-based learning methods and nearest-neighbor approach and kernel methods - support vector machines'}",5,5
+svr,{'support vector regress'},{'support vector regression'},1,1
+svrms,{'support vector regress machin'},{'support vector regression machines'},1,1
+svt,{'support valu transform'},{'support value transform'},1,1
+sw,{'small world'},{'small-world'},1,1
+swm,{'social work memori'},{'social working memory'},1,1
+swn,{'sentiwordnet'},{'sentiwordnet'},1,1
+swt,{'stationari wavelet transform'},{'stationary wavelet transform'},1,1
+syk,{'spleen tyrosin kinas'},{'spleen tyrosine kinase'},1,1
+sysml,{'system model languag'},{'systems modelling language'},1,1
+tace,{'tnf α convert enzym'},{'tnf-α converting enzyme'},1,1
+tact,{'transfer actor critic learn'},{'transfer actor-critic learning'},1,1
+tbw,{'total bodi water'},{'total body water'},1,1
+tcfec,{'traffic classif framework base on ensembl cluster'},{'traffic classification framework based on ensemble clustering'},1,1
+tcga,{'the cancer genom atlas'},{'the cancer genome atlas'},1,1
+tcm,"{'tradit chines medicin', 'transduct confid machin'}","{'transductive confidence machines', 'traditional chinese medicine'}",2,2
+tcm-knn,{'transduct confid machin for k nearest neighbor'},{'transductive confidence machines for k-nearest neighbors'},1,1
+tcp,{'wireless transmiss control protocol'},{'wireless transmission control protocol'},1,1
+tcps,{'transport base cyberphys system'},{'transportation-based cyberphysical systems'},1,1
+tct,{'thermal cyclic test'},{'thermal cyclic test'},1,1
+tdd,{'time divis duplex'},{'time division duplex'},1,1
+tdl,{'tempor differ learn'},{'temporal difference learning'},1,1
+tdnn,{'time delay neural network'},{'time-delay neural network'},1,1
+tdr,{'time domain reflectrometri'},{'time-domain reflectrometry'},1,1
+tdwz,{'transform domain wyner ziv video code'},{'transform domain wyner-ziv video coding'},1,1
+tei,{'total exposur index'},{'total exposure index'},1,1
+telm-tda,{'target domain adapt transfer elm'},{'target domain adaptation transfer elm'},1,1
+tes,{'transcrani electr stimul'},{'transcranial electrical stimulation'},1,1
+tf,{'time frequenc'},{'time-frequency'},1,1
+tfms,{'three axi fluxgat magnetomet'},{'three-axis fluxgate magnetometers'},1,1
+tfrc,{'tcp friend rate control'},{'tcp-friendly rate control'},1,1
+tft,{'thin film transistor'},{'thin-film transistor'},1,1
+the,{'time higher educ'},{'times higher education'},1,1
+the ondol system,{'korean hous heat system'},{'korean house-heating system'},1,1
+thr,{'total hip replac'},{'total hip replacement'},1,1
+tio2,{'titanium dioxid'},{'titanium dioxide'},1,1
+tir,{'thermal infrar'},{'thermal-infrared'},1,1
+tiso,{'two input singl output'},{'two-input single-output'},1,1
+tks,{'task knowledg structur'},{'task knowledge structures'},1,1
+tl,{'transfer learn'},{'transfer learning'},1,1
+tlc,{'tripl level cell'},{'triple-level cell'},1,1
+tld,{'track learn detect'},{'tracking-learning-detection'},1,1
+tle,{'tempor lobe epilepsi'},{'temporal lobe epilepsy'},1,1
+tls,"{'terrestri laser scan', 'transport layer secur'}","{'terrestrial laser scanning', 'transport layer security'}",2,2
+tma,{'tissu microarray'},{'tissue microarray'},1,1
+tmg,{'text to matrix generat'},{'text to matrix generator'},1,1
+tmu,{'total measur uncertainti'},{'total measurement uncertainty'},1,1
+tof,{'time of flight'},{'time of flight'},1,1
+tou,{'time of use'},{'time-of-use'},1,1
+tpa,{'total predict accuraci'},{'total prediction accuracy'},1,1
+tr,{'trace ratio'},{'trace ratio'},1,1
+traci,{'traffic control interfac'},{'traffic control interface'},1,1
+transportation,{'traffic control'},{'traffic control'},1,1
+triz,{'theori of invent problem solv'},{'theory of inventive problem solving'},1,1
+trp,{'total radiat power'},{'total radiated power'},1,1
+ts,{'troubleshoot'},{'troubleshooting'},1,1
+ts-phmm,{'two stage hidden markov model'},{'two stage hidden markov model'},1,1
+tsa,"{'twitter sentiment analysi', 'transient stabil assess', 'time seri analysi'}","{'transient stability assessment', 'twitter sentiment analysis', 'time series analysis'}",3,3
+tsc,"{'two layer spars code', 'time seri classif'}","{'time-series classification', 'two-layer sparse coding'}",2,2
+tsk,"{'takagi sugeno kang', 'deep learn takagi sugeno kang'}","{'takagi-sugeno-kang', 'deep learning takagi-sugeno-kang'}",2,2
+tsp,{'travel salesman problem'},{'traveling salesman problem'},1,1
+tsv,"{'through silicon via', 'throung silicon via'}","{'through silicon vias', 'through-silicon via', 'through silicon via', 'throung silicon via'}",4,4
+tsvm,{'twin support vector machin'},{'twin support-vector machine'},1,1
+ttf,{'time to failur'},{'time to failure'},1,1
+ttt,{'time temperatur transform'},{'time-temperature-transformation'},1,1
+ttts,{'twin to twin transfus syndrom'},{'twin-to-twin transfusion syndrome'},1,1
+tucker,{'higher order princip compon analysi'},{'higher-order principal components analysis'},1,1
+tv,{'total variat'},{'total variation'},1,1
+txm,{'transmiss x ray microscopi'},{'transmission x-ray microscopy'},1,1
+u-ae,{'universum autoencod'},{'universum autoencoders'},1,1
+uav,{'unman aerial vehicl'},"{'unmanned aerial vehicles', 'unmanned aerial vehicle'}",2,2
+uavs,{'unman aerial vehicl'},{'unmanned aerial vehicles'},1,1
+ubm-map-gmm,{'univers background model maximum a posteriori gaussian mixtur model'},{'universal background model maximum a posteriori gaussian mixture model'},1,1
+ucd,{'user center design'},{'user-centered design'},1,1
+ucs,{'ultracapacitor'},{'ultracapacitors'},1,1
+udn,{'ultra dens network'},{'ultra dense network'},1,1
+uem,{'urban energi model'},{'urban energy modelling'},1,1
+ugc,{'user generat content'},{'user-generated content'},1,1
+ugw,{'ultrason guid wave'},"{'ultrasonic guided waves', 'ultrasonic guided wave'}",2,2
+uhi,{'urban heat island'},{'urban heat island'},1,1
+uhr,{'ultra high risk'},{'ultra high risk'},1,1
+uhs,{'uniform hazard spectrum'},{'uniform hazard spectrum'},1,1
+ul,{'unsupervis learn'},{'unsupervised learning'},1,1
+um,{'user model'},{'user modeling'},1,1
+umls,"{'unifi medic languga system', 'unifi medic languag system'}","{'unified medical langugae system', 'unified medical language system'}",2,2
+umts,{'univers mobil telecommun system'},{'universal mobile telecommunications system'},1,1
+unsupervised,{'machin learn'},{'machine learning'},1,1
+upnb,{'uniform prior naiv bay'},{'uniform prior naive bayes'},1,1
+urap,{'univers rank by academ perform'},{'university ranking by academic performance'},1,1
+url,{'malici uniform resourc locat'},{'malicious uniform resource locator'},1,1
+us,{'ultrasound'},{'ultrasound'},1,1
+usb-bbr,{'unsupervis score base bound box regress'},{'unsupervised score-based bounding box regression'},1,1
+usv,{'unman surfac vehicl'},{'unmanned surface vehicle'},1,1
+usvm,{'unascertain support vector machin'},{'unascertained support vector machine'},1,1
+uukl,{'up up keystrok latenc'},{'up-up keystroke latency'},1,1
+uwb,"{'ultra wide band', 'ultra wideband'}","{'ultra wide-band', 'ultra-wideband', 'ultra wideband'}",3,3
+ux,{'manufactur user experi'},{'manufacturing user experience'},1,1
+uxo,{'unexplod ordnanc'},{'unexploded ordnance'},1,1
+v-svc,{'μ support vector classif'},{'μ-support vector classification'},1,1
+v-svr,{'v support vector regress'},{'v-support vector regression'},1,1
+vad,{'voic activ detect'},{'voice activity detection'},1,1
+vae,{'variat auto encod'},"{'variational auto-encoders', 'variational auto-encoder'}",2,2
+vanet,{'vehicular ad hoc network'},{'vehicular ad-hoc network'},1,1
+vanets,{'vehicular ad hoc network'},"{'vehicular ad-hoc networks', 'vehicular ad hoc networks'}",2,2
+vav,{'variabl air volum'},{'variable air volume'},1,1
+vc,"{'vapnik chervonenki', 'vapnik   chervonenki', 'vote count'}","{'vapnik - chervonenkis', 'vapnik-chervonenkis', 'vote count'}",3,3
+vc-dim,{'vapnik   chervonenki dimens'},{'vapnik - chervonenkis dimension'},1,1
+vcs,{'version control system'},{'version control systems'},1,1
+vegfr-2,{'vascular endotheli growth factor receptor 2'},{'vascular endothelial growth factor receptor 2'},1,1
+vf,{'ventricular fibril'},{'ventricular fibrillation'},1,1
+vfa,{'viscer fat area'},{'visceral fat area'},1,1
+vfis,{'voltag frequenc island'},{'voltage-frequency islands'},1,1
+vho,{'vertic handoff'},{'vertical handoff'},1,1
+vhr,{'veri high resolut'},"{'very high resolution', 'very high-resolution', 'very-high-resolution'}",3,3
+vi,"{'visual impair', 'variat inequ'}","{'visually impaired', 'variational inequality'}",2,2
+virs-200,{'visibl infrar scanner'},{'visible infrared scanner'},1,1
+visual slam,{'simultan local and map'},{'simultaneous localization and mapping'},1,1
+vlad,{'vector of local aggreg descriptor'},{'vector of locally aggregated descriptors'},1,1
+vlc,{'visibl light communic'},{'visible light communications'},1,1
+vlp,{'visibl light posit'},{'visible light positioning'},1,1
+vlr,"{'veri low resolut', 'vehicl logo recognit'}","{'vehicle logo recognition', 'very low resolution'}",2,2
+vlsi,{'veri larg scale integr'},"{'very large scale integration', 'very large-scale integration'}",2,2
+vm,{'vehicl model'},{'vehicle modeling'},1,1
+vmr,{'vehicl manufactur recognit'},{'vehicle manufacturer recognition'},1,1
+vod,{'video on demand'},{'video on-demand'},1,1
+vpmcd,{'variabl predict model base class discrimin'},{'variable predictive model-based class discrimination'},1,1
+vq,{'vector quantize'},{'vector quantization'},1,1
+vqa,"{'visual question answer', 'visual question and answer', 'video qualiti assess'}","{'visual question answering', 'visual question and answering', 'video quality assessment'}",3,3
+vr,{'virtual realiti'},{'virtual reality'},1,1
+vrf,{'variabl refriger flow'},{'variable refrigerant flow'},1,1
+vs,"{'volterra seri', 'virtual sens'}","{'volterra series', 'virtual sensing'}",2,2
+vt,{'ventricular tachycardia'},{'ventricular tachycardia'},1,1
+vtc,{'video transcod'},{'video transcoding'},1,1
+vtt,{'visual ture test'},{'visual turing test'},1,1
+vw-sae,{'variabl wise weight sae'},{'variable-wise weighted sae'},1,1
+wadc,{'wide area damp control'},{'wide-area damping controller'},1,1
+wampac,{'and control'},{'and control'},1,1
+wams,{'wide area measur system'},{'wide-area measurement system'},1,1
+wban,"{'wireless bodi area network', 'wireless bodi area sensor network'}","{'wireless body area sensor network', 'wireless body area network'}",2,2
+wbc,{'white blood cell'},{'white blood cell'},1,1
+wce,"{'wireless capsul endoscop', 'wireless capsul endoscopi'}","{'wireless capsule endoscopy', 'wireless capsule endoscope'}",2,2
+wdf,{'wigner distribut function'},{'wigner distribution function'},1,1
+wgcna,{'weight gene co express network analysi'},{'weighted gene co-expression network analysis'},1,1
+wlan,{'wireless local area network'},{'wireless local area network'},1,1
+wlans,{'wireless local area network'},{'wireless local area networks'},1,1
+wlr,{'wheat leaf rust'},{'wheat leaf rust'},1,1
+wls,{'weight least squar'},{'weighted least squares'},1,1
+wm,"{'weight momentum', 'random forest , machin learn , western medicin', 'white matter'}","{'weight momentum', 'random forest, machine learning, western medicine', 'white matter'}",3,3
+wml,{'wireless sensor network base machin learn'},{'wireless sensor network based machine learning'},1,1
+wnn,{'wavelet neural network'},{'wavelet neural network'},1,1
+wom,{'word of mouth'},{'word-of-mouth'},1,1
+wp,{'optim wavelet packet'},{'optimal wavelet packet'},1,1
+wpe,{'wavelet packet energi'},{'wavelet packet energy'},1,1
+wps,{'warp progress similar'},{'warp progression similarity'},1,1
+wpt,{'wavelet packet transform'},{'wavelet packet transform'},1,1
+wrf,{'weather research and forecast'},{'weather research and forecast'},1,1
+wsl,{'weak supervis learn'},{'weakly supervised learning'},1,1
+wsn,{'wireless sensor network'},{'wireless sensor network'},1,1
+wsns,{'wireless sensor network'},{'wireless sensor networks'},1,1
+wsnss,{'wireless sensor network system'},{'wireless sensor network systems'},1,1
+wsos,{'weapon system of system'},{'weapon system of systems'},1,1
+wsrf,{'web servic resourc framework'},{'web services resource framework'},1,1
+wss,{'wall shear stress'},{'wall shear stress'},1,1
+wt,"{'wind turbin', 'wavelet transform'}","{'wind turbine', 'wavelet transform'}",2,2
+wta,"{'weapon target assign', 'winner take all'}","{'weapon-target assignment', 'winner-take-all'}",2,2
+wtps,{'wireless transmiss protocol stack'},{'wireless transmission protocol stack'},1,1
+wwo,{'water wave optim'},{'water wave optimization'},1,1
+x,{'percentag of predict ( x ) pred'},{'percentage of predictions(x) pred'},1,1
+xcs,{'extend classifi system'},{'extended classifier system'},1,1
+xcsg,{'accuraci base machin learn system with gradient descent'},{'accuracy-based machine learning system with gradient descent'},1,1
+xss,{'cross site script'},{'cross site scripting'},1,1
+yolo,{'you onli look onc'},{'you only look once'},1,1
+yoy,{'young of the year fish'},{'young-of-the-year fishes'},1,1
+zhe rule,{'zhe aspect transfer rule'},{'zhe aspect transferring rule'},1,1
+δ,{'taxonom divers index'},{'taxonomic diversity index'},1,1
+δ<sup>*</sup>,{'taxonom distinct'},{'taxonomic distinctness'},1,1
+λ,"{'r', 'sarsa', 'q', 'multi step q'}","{'r', 'q', 'multi-step q', 'sarsa'}",4,4
+ν-svr,{'ν support vector regress'},{'ν support vector regression'},1,1

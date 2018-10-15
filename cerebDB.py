@@ -7,8 +7,12 @@ import matplotlib.pyplot as plt
 from importDB import *
 from cleansingPapers import *
 from cleansingLinks import *
-from deepCleanseKeywords import *
-from generateTagset import *
+# from deepCleanseKeywords import *
+from deepCleanseKeywords_v2 import *
+from akaExtractor import *
+
+# from generateTagset import *
+from generateTagset_v2 import *
 from matchTags import *
 
 
@@ -23,14 +27,18 @@ class CerebDB_Generator :
         self.links_clean = cleansing_links(self.papers_clean, self.links)
         self.papers_clean,self.keylist = additional_cleansing_for_keywords(self.papers_clean, 'keywords_author')
         # papers_clean,keylist = additional_cleansing_for_keywords(papers_clean, 'keywords_other')
+        self.AKADict = aka_extractor(self.keylist)
 
-        self.tagDict, self.rawToTag = genTagSet(self.keylist)
+        self.tagDict, self.rawToTag = genTagSet(self.keylist, self.AKADict)
         # Takes a while
         self.cerebDB = matchTags(self.rawToTag, self.papers_clean)
 
 
     def getCerebDB() :
         return self.cerebDB
+
+    def getCerebLink() :
+        return self.links_clean
 
     def getTagDict() :
         return self.tagDict

@@ -13,7 +13,7 @@ from printUtils import *
 import numpy as np
 
 def cleansing_links(dataset, links) :
-    print(blue('Cleansing links..'))
+    print(blue('\n=> Cleansing links..'))
     name = {'a' : 'p_id_is_cited', 'b' : 'by_p_id'}
     
     # Check wrong assigned links by pulished year checking

@@ -61,7 +61,7 @@ def combine_tags() :
 
 
 def genTagDict(keylist=None) :
-    print(blue('Generating tagDict...'))
+    print(blue('\n=> Generating tagDict...'))
     if keylist is None :
         print('TODO : get keylist from cerebDB directly')
         return
@@ -86,7 +86,7 @@ def spreading(x, rawToTag) :
         rawToTag.append({'rawkey' : each, 'tag' : x.tag })
 
 def genRawToTag(tagDict) :
-    print(blue('Generating RawToTag...'))
+    print(blue('\n=> Generating RawToTag...'))
 
     dictTemp = tagDict.reset_index()
     rawToTag = []

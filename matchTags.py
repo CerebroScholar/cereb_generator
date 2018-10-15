@@ -16,7 +16,7 @@ def step_matching(rawToTag, keylist, cnt) :
     return list(set([list(rawToTag[rawToTag.rawkey == each].tag)[0] for each in keylist]))
 
 def matchTags(rawToTag, papers) :
-    print(blue('matching Tags and generating cerebDB..'))
+    print(blue('\n=> matching Tags and generating cerebDB..'))
     if 'rawkeys' not in papers.columns :
         print(red('rawkeys column not exist. Please run additional cleansing module.'))
         return

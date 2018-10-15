@@ -13,7 +13,7 @@ import pandas as pd
 from printUtils import *
 
 def importDB_AWS() :
-    print(blue('Importing latest DB from AWS. table : paper, link'))
+    print(blue('=> Importing latest DB from AWS. table : paper, link'))
 
     from AWS_SDK import RDS
     RDS = RDS()
@@ -28,7 +28,7 @@ def importDB_AWS() :
     return papers, links
 
 def importDB_stored(filename = 'backupdb.db'):
-    print(blue("Importing DB from '{}'. table : paper, link".format(filename)))
+    print(blue("=> Importing DB from '{}'. table : paper, link".format(filename)))
     import sqlite3
     import os.path
 

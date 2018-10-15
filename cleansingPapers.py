@@ -21,6 +21,7 @@ pd.options.mode.chained_assignment = None
 
 def dt(string) :
     """json to dict"""
+    if string == None : return {}
     return ast.literal_eval(string)
 
 def cleanse_title(x) :
@@ -93,7 +94,7 @@ def cleanse_keywords(x, case=['scp', 'wos', 'ieee']) :
 
 
 def cleansing_papers(papers, keywordCase=['scp', 'wos', 'ieee']) :
-    print(blue('Cleansing papers..'))
+    print(blue('\n=> Cleansing and extracting representative values of papers..'))
 
     temp = papers.loc[:,['p_id', 'title', 'n_cite', 'pub_year', 'keywords' , 'abstract']]
     temp["sources"] = temp.title.apply(lambda x :str(list(dt(x).keys())))
