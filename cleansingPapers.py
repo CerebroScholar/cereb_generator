@@ -68,7 +68,7 @@ def cleanse_keywords(x, case=['scp', 'wos', 'ieee']) :
 
     for source in case :
         try : 
-            for k,v in dt(json[source]).items() :
+            for k,v in dt(str(json[source])).items() :
                 if k in keyindex_author :
                     keywords['author'].extend(v)
                 else :
